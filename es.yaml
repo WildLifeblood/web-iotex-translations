@@ -1,6 +1,3 @@
-about.this.file: >-
- Strings in different locales are auto-generated and maintained by
-	  locale_strings.js.
 +auth.enter_phone_number: Introduce tu número de teléfono
 +auth.enter_verification_code: >-
   Please enter the 6-digit verification code sent to your phone
