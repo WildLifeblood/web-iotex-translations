@@ -1,3 +1,6 @@
+about.this.file: >-
+  Strings in different locales are auto-generated and maintained by
+  locale_strings.js.
 +auth.enter_phone_number: Introduce tu número de teléfono
 +auth.enter_verification_code: >-
   Please enter the 6-digit verification code sent to your phone
@@ -16,7 +19,7 @@
 +charity.to: a 
 +charity.tweet.summary.description: >-
 +¡Apreciamos tu gran corazón! Además de los 16,000 puntos fijos puntuales
-+de agradecimiento como regalo, ahora pondremos su buena acción en la página web de IoTeX!
++de agradecimiento como regalo, ¡ahora pondremos su buena acción en la página web de IoTeX!
  +charity.tweet.summary.image: >-
    +https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 +charity.tweet.summary.title: ¡Estás en la Junta de Honor IoTeX!
@@ -87,7 +90,7 @@
   +problemas tales como baja escalabilidad, altos costos de operación, preocupaciones de privacidad y falta
   +de valores funcionales.
 +home.about.sol.desc2: >-
-+IoTeX está afrontando este problema introducciendo la economía de tokens en espacios de IoT ya
++IoTeX está afrontando este problema introduciendo la economía de tokens en espacios de IoT ya
  +que creemos firmemente que los incentivos criptográficos, así como el esfuerzo de la comunidad son
  +las dos fuerzas clave para impulsar innovaciones en el espacio del IoT. En resumen, IoTeX es la
  +siguiente generación de plataforma blockchain orientada a IoT con gran escalabilidad,
@@ -203,7 +206,7 @@
   +Blockchain technology, machine learning, and Internet of Things enthusiast.
 +home.zhefeng.name.keep: Zhefeng Li
 +home.zhefeng.title.keep: Ingeniero Blockchain
-+next: next
++next: siguiente
 +profile.history.category: Categoría
 +profile.history.menu: HISTORIAL
 +profile.history.point: Puntos
@@ -225,25 +228,25 @@
 +profile.redeem.menu: CANJEAR
 +profile.redeem.prompt: INTRODUCE LA CANTIDAD QUE QUIERES CANJEAR POR IOTX
 +profile.redeem.success: >-
-  +Tu solicitud ha sido aceptada y en la lista! Para evitar congestión en
+  +¡Tu solicitud ha sido aceptada y en la lista! Para evitar congestión en
   +la red Ethereum, procesaremos las solicitudes gradualmente y finalizaremos todos los
   +intercambios de puntos a token dentro de dos semanas.
 +profile.send.button: ENVIAR
 +profile.send.menu: ENVIAR
 +profile.send.prompt:INTRODUCE LA CANTIDAD QUE QUIERES ENVIAR
 +profile.send.success: >-
-  +El código IoTeX ha sido creado satisfactoriamente! Copia el código para transferir puntos
+  +¡El código IoTeX ha sido creado satisfactoriamente! Copia el código para transferir puntos
   +entre cuentas: %s.
 +stonevan.twitter: >-
   +Acabo de conseguir 100 puntos gratis de IoTeX por celebrar su primer red de prueba
-  +Preview release. @iotex_io Ven y consigue los tuyos!
+  +Preview release. @iotex_io ¡Ven y consigue los tuyos!
 +subscribe.btn: SUBSCRIBIRSE
 +subscribe.desc: Con nuestros últimos progresos y eventos.
 +subscribe.title: Estate atento
 +testnet-preview.home-title:La vista previa de la red de prueba (StoneVan) será hecho pública en
-+testnet-preview.released-event-title: Nuestra vista previa de la red de prueba se ha hecho pública!
++testnet-preview.released-event-title: ¡Nuestra vista previa de la red de prueba se ha hecho pública!
 +testnet-preview.released-title: La vista previa de la red de prueba se ha hecho pública
-+topbar.announcements: ANNOUNCEMENTS
++topbar.announcements: ANUNCIOS
 +topbar.blog: BLOG
 +topbar.careers: CARRERAS
 +topbar.charity: CARIDAD
