@@ -6,54 +6,78 @@ auth.enter_verification_code: >-
   Por favor, introduce el código de verificación de 6 dígitos enviado a tu teléfono
   <strong>%s</strong>
 auth.login: Acceder
+auth.login_with_mobile: Acceder con el número de teléfono
 auth.login_with_telegram: Acceder con Telegram
 auth.next: Siguiente
 auth.phone_number: Número de Teléfono
 auth.tab.mobile: Teléfono(CN)
 auth.tab.telegram: Telegram
 auth.verification_code: Código de Verificación
+captcha.incorrect_captcha: Error en el captcha
+captcha.loading_captcha: Cargando captcha...
+captcha.unknown_error: Algo fue mal. Por favor inténtelo más tarde.
+charity.tweet.summary.description: >-
+¡Agradecemos tu gran corazón! Además de los 12,000 puntos fijos puntuales
+de agradecimiento como regalo, ¡ahora pondremos su buena acción en la página web de IoTeX!
+charity-dorahacks.tweet.summary.image: 'https://s3.amazonaws.com/web-iotex-static/charity/twitter-summary-image.png'
 charity.donated: Donado
-charity.more-info: Más sobre el programa de caridad IoTeX
+charity.more-info: Más sobre el programa de caridad de IoTeX
 charity.question: ¿Cómo conocí IoTeX?¿Por qué estoy interesado en él?
 charity.share-message: ¡Comparte tu acto de bondad!
-charity.to: a 
+charity.to: A
 charity.tweet.summary.description: >-
-¡Agradecemos tu gran corazón! Además de los 16,000 puntos fijos puntuales
-de agradecimiento como regalo, ¡ahora pondremos su buena acción en la página web de IoTeX!
-  charity.tweet.summary.image: >-
-    https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
-charity.tweet.summary.title: ¡Estás en la Junta de Honor IoTeX!
+  ¡Agradecemos tu gran corazón! Además de los 16,000 puntos fijos puntuales
+   de agradecimiento como regalo, ¡ahora pondremos su buena acción en la página web de IoTeX!
+charity.tweet.summary.image: >-
+  https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
+charity.tweet.summary.title: ¡Estás en la Tablón de Honor de IoTeX!
 claim.btn: RECLAMA TUS PUNTOS
 contact.btn: CONTÁCTENOS
 contact.desc: Los expertos de IoTeX están disponibles para responder sus preguntas a través de support@iotex.io
 contact.title: MANTENTE EN CONTACTO
 doraHacks: DoraHacks
 ethFoundation: Fundación Ethereum
+hall-of-fame.badge-section.dorahacks.desc: >-
+  <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> es la
+  mayor comunidad organizadora de hackatones y de desarrollo hacker en China, y ha
+  expandido su presencia en 2018 a 10 países, incluyendo los Estados Unidos,
+  Corea del Sur, Japón, Inglaterra, e India. Hasta la fecha, DoraHacks ha organizado más
+  de 100 hackatones en siete ciudades alrededor del mundo, con más de 5,000
+  core hackers y 200,000 desarrolladores globales en su comunidad. DoraHacks ha
+  provisto un plataforma para desarrolladores de todos los niveles para crear más de
+  1,000 aplicaciones en sus hackatones, y sus hackers han llegado a
+  empezar y liderar varias startups blockchain, como ProChain y CorTex — y
+  están solo empezando.
+  
+  Para más detalle vea <a target="_blank"
+  href="https://medium.com/iotex/iotex-charity-program-ii-dorahacks-b5828a4c5681">IoTeX
+  2nd Charity Program Update</a>.
+hall-of-fame.badge-section.dorahacks.title: 2º Programa de Caridad de IoTeX — DoraHacks
+hall-of-fame.badge-section.eth-foundation.desc: >-
+  <a target="_blank" href="https://www.ethereum.org/foundation">Ethereum</a> ha
+  revolucionado el mundo de la cadena de bloques los últimos cuatro años e hizo
+   que “blockchain” fuera la nueva palabra de moda. Como líder de la industria, Ethereum ha provisto
+  <a target="_blank"
+  href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
+  para alentar a los investigadores y desarrolladores a trabajar en varios frentes para apoyar
+  todo el ecosistema blockchain. IoTeX cree firmemente que podemos llevar
+  hacia delante a toda la industria a través de una rigurosa investigación y colaboración.
+  Necesitamos talentos y las mentes más brillantes para hacer una marca en el mundo. Una pequeña
+  pero poderosa manera de ayudar a nuestra causa es donar ETH a la
+  Fundación Ethereum para ayudar a financiar la investigación blockchain.
+  
+  
+  Para más detalle vea <a target="_blank"
+  href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
+  1st Charity Program Update</a>.
+hall-of-fame.badge-section.participation-detail: >-
+  Para los detalles de participación, por favor únase al oficial <a target="_blank"
+  href="https://t.me/IoTeXGroup">Telegram Group</a> y manténgase atento a los mensajes
+  fijados.
 geetest.loading_captcha: Cargando captcha...
 hall-of-fame.badge-section.title: IoTeX 1st Charity Program - Fundación ETH
-hall-of-fame.badge-section.unicorn.desc: >
-    Ethereum ha revolucionado el mundo de la cadena de bloques durante los últimos cuatro años e
-    hizo que "blockchain" fuera la nueva palabra de moda. Como líder de la industria, Ethereum ha
-    provisto <a target="_blank"
-    href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
-    para alentar a los investigadores y desarrolladores a trabajar en varios frentes para apoyar
-    todo el ecosistema blockchain. IoTeX cree firmemente que podemos llevar
-    hacia delante toda la industria a través de una rigurosa investigación y colaboración.
-    Necesitamos talentos y las mentes más brillantes para hacer una marca en el mundo. Una pequeña
-    pero poderosa manera de ayudar a nuestra causa es donar ETH a la
-    Fundación Ethereum para ayudar a financiar la investigación blockchain.
-
-
-   Para los detalles de participación, por favor únase al oficial <a target="_blank"
-   href="https://t.me/IoTeXGroup">Telegram Group</a> y esté atento a los mensajes
-   fijados
-  
-	  
-   Ver más detalles en <a target="_blank"
-   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
-   1ª actualización del programa de caridad</a>.
-hall-of-fame.search.label: Busque por su hashid o por su nombre de usuario por defecto
-hall-of-fame.thank-you.message: >
+hall-of-fame.search.label: Search by your hashid or Preferred Display Name
+hall-of-fame.thank-you.message: >-
    El crowdsourcing como medio para financiar una causa específica para una obra de caridad no es nuevo, pero
    IoTeX lo está haciendo vía “contratos inteligentes” y redirigiendo el bombo de las criptomonedas
    a causas benéficas. En los próximos meses, bajo su Programa de Recompensa Comunitaria,
@@ -68,16 +92,16 @@ hall-of-fame.thank-you.message: >
    comunidad para impulsar la frontera para el desarrollo del ecosistema
    blockchain, IoTeX realmente espera que la comunidad pueda entender la intención
    original y ayude a promover la causa.
-hall-of-fame.title: IoTeX Charity
+hall-of-fame.title: IoTeX Caridad
 home.about.inno.0.desc.keep: >-
    Admite millones de nodos con finalización instantánea y baja latencia,
    es respetuoso con el medio ambiente, diseñado para el IoT.
-home.about.inno.0.title.keep: Fast Consensus
+home.about.inno.0.title.keep: Consenso Veloz
 home.about.inno.1.desc.keep: >-
    Al igual que Plasma, retira los estados de la cadena raíz para aumentar aún más la privacidad,
    escalabilidad e interoperabilidad; e innova en la transmisión cruzada de valor
    y datos
-home.about.inno.1.title.keep: Blockchain in Blockchains
+home.about.inno.1.title.keep: Blockchain en Blockchains
 home.about.inno.2.desc.keep: >-
    Maximice la privacidad con innovadores esquemas de criptografía como la dirección de sigilo ligero
    y la firma de anillo de tamaño constante
@@ -86,7 +110,7 @@ home.about.inno.3.desc.keep:'Organización Autónoma Descentralizada para IoT, e
 home.about.inno.3.title.keep: Coordinación de dispositivos autónomos
 home.about.sol.desc1: >-
    A pesar de su rápida evolución, el IoT todavía está lejos de alcanzar la adopción masiva y
-   carece de "aplicaciones rompedoras" que atraerían nuevos usuarios al ecosistema debido a
+   carece de "aplicaciones asesinas" que atraerían nuevos usuarios al ecosistema debido a
    problemas tales como baja escalabilidad, altos costos de operación, preocupaciones de privacidad y falta
    de valores funcionales.
 home.about.sol.desc2: >-
@@ -96,7 +120,13 @@ home.about.sol.desc2: >-
    siguiente generación de plataforma blockchain orientada a IoT con gran escalabilidad,
    privacidad, aislamiento y capacidad de desarrollo para incubar nuevas aplicaciones de IoT
    y ecosistemas.
-home.decentralized-protocol: Una red descentralizada para Internet de las cosas
+home.alina.desc.keep: >-
+   Experiencia en marketing, ventas y gestión de proyectos en sectores corporativos y en el gobierno
+   Bcomm en Negocio Internacional y Certificación de Gestión de
+   Proyectos. Entusiasta de las criptomonedas y startups.
+home.alina.name.keep: Alina Burya
+home.alina.title.keep: Gestora de la comunidad
+home.decentralized-protocol: Una red descentralizada para Internet de las Cosas
 home.dustin.desc.keep: >-
    Doctorado en Seguridad de Datos en la USC. Ingeniero de software del personal en Intel. 12 años de
    experiencia en sistemas distribuidos, protección de contenido, aceleración de hardware
@@ -105,7 +135,7 @@ home.dustin.desc.keep: >-
 home.dustin.name.keep: Dustin Xie
 home.dustin.title.keep: Ingeniero Blockchain
 home.fan.desc.keep: >-
-Anteriormente sirvió como socio fundador de Sequoia Capital China, y como
+   Anteriormente trabajó como socio fundador de Sequoia Capital China, y como
    Director de DFJ ePlanet Ventures. Clasificada por Forbes como una de las empresas líderes
    de capital riesgo en su lista anual Midas de China.
 ++home.fan.name.keep: Fan Zhang
@@ -178,6 +208,13 @@ home.section.roadmap: IoTeX.HojaDeRutaTecnológica
 home.section.team: IoTeX.Equipo
 home.section.teamfrom: IoTeX.FondoDelEquipo
 home.section.useceses: IoTeX.CasosDeUso
+home.zhijie.desc.keep: >-
+  Ph.D en Ciencias de Computación en National University of Singapore. 10+ años
+  de experiencia en sistemas distribuidos, redes P2P y big data. Contribuidor y
+  PMC de Hadoop and Samza. Miembro de la Apache Software Foundation. 10+
+  publicaciones y patentes.
++home.zhijie.name.keep: Zhijie Shen
++home.zhijie.title.keep: Ingeniero de Personal Blockchain
 home.site.description: >-
    Una Red Descentralizada para el Internet de las Cosas (IoT), impulsada por una
    auto-escalable, extensible y privado-céntrica Blockchain. Conectando el Mundo 
@@ -185,14 +222,19 @@ home.site.description: >-
 ++home.slogan: Conectando el Mundo Físico Bloque por Bloque
 home.title: IoTeX
 home.vedaad.desc.keep: >-
-   Estudiante en UC Berkeley estudiando EECS and Matemáticas Aplicadas; investigador blockchain
-   en el equipo criptoeconómico en Blockchain @ Berkeley
+  Estudiante en UC Berkeley estudiando EECS and Matemáticas Aplicadas; investigador blockchain
+  en el equipo criptoeconómico en Blockchain @ Berkeley
 home.vedaad.name.keep: Vedaad Shakib
 home.vedaad.title.keep: Ingeniero Blockchain Becario
 home.xinxin.desc.keep: >-
-   Ph.D en Cryptografía en University of Waterloo. Ingeniero Sr. de Investigación en Bosch Research. 14
-   años de experiencia en investigación y en la industria de seguridad de información y criptografía.
-   40+ publicaciones / patentes.
+  Ciencias de Computación en la University of Waterloo. Entusiasta de la seguridad y
+  blockchain.
+home.vincent.name.keep: Vincent Vuong
+home.vincent.title.keep: Ingeniero de Software Becario
+home.xinxin.desc.keep: >-
+  Ph.D en Cryptografía en University of Waterloo. Ingeniero Sr. de Investigación en Bosch Research. 14
+  años de experiencia en investigación y en la industria de seguridad de información y criptografía.
+  40+ publicaciones / patentes.
 home.xinxin.name.keep: Xinxin Fan
 home.xinxin.title.keep: Jefe de Cryptografía
 home.zhefeng.desc.keep: >-
@@ -201,46 +243,66 @@ home.zhefeng.desc.keep: >-
    Entusiaste de la tecnología Blockchain, machine learning, y el Internet of Things.
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Ingeniero Blockchain
-next: siguiente
+home.zhen.desc.keep: >-
+  Bachelor en Ciencias de Computación en la University of Waterloo. Entusiasta blockchain,
+  de las cryptomonedas y del machine learning.
+home.zhefeng.name.keep: Zhefeng Li
+home.zhefeng.title.keep: Ingeniero Blockchain
 profile.history.category: Categoría
 profile.history.menu: HISTORIAL
-profile.history.point: Puntos
-profile.history.status: Estado
+profile.history.point: Punto
 profile.history.time: Hora
 profile.info.eth_address: Dirección ETH
 profile.info.phone_number: Teléfono
 profile.info.telegram_account_id: Telegram
 profile.message.back: ATRÁS
-profile.message.less_than_100_points: Necesitas al menos 100 puntos para enviar una solicitud.
-profile.message.not_a_number: Por favor, introduce un número válido.
-profile.message.not_enough_points: No tienes suficientes puntos
+profile.message.copied: El código ha sido enviado al portapapeles.
+profile.message.copy: Copiar
+profile.message.less_than_100_points: Necesita al menos 100 puntos para enviar una solicitud.
+profile.message.loading: Cargando
+profile.message.not_a_number: Por favor, introduzca un número válido.
+profile.message.not_enough_points: No tiene suficientes puntos
 profile.message.processing: Procesándose
+profile.message.no_eth: Necesita una dirección ETH para canjear.
+profile.message.refund: Reembolsar
+profile.receive.amount: Cantidad
 profile.receive.button: RECIBIR
 profile.receive.menu: RECIBIR
 profile.receive.prompt: INTRODUCE EL CÓDIGO
-profile.receive.success: ¡Felicidades! Acabas de recibir %s puntos.
+profile.receive.success: ¡Felicidades! Acaba de recibir %s puntos. Vea la tabla de abajo para más detalles.
+profile.receive.time: Hora
+profile.redeem.amount: Cantidad
 profile.redeem.button: ENVIAR APLICACIÓN
-profile.redeem.menu: CANJEAR
-profile.redeem.prompt: INTRODUCE LA CANTIDAD QUE QUIERES CANJEAR POR IOTX
+profile.redeem.menu: CANJEAR TOKENS
+profile.redeem.prompt: INTRODUZCA LA CANTIDAD QUE QUIERE CANJEAR POR IOTX
+profile.redeem.status: Estatus
 profile.redeem.success: >-
-   ¡Tu solicitud ha sido aceptada y en la lista! Para evitar congestión en
+   ¡Tu solicitud ha sido aceptada y está en la lista! Para evitar congestión en
    la red Ethereum, procesaremos las solicitudes gradualmente y finalizaremos todos los
    intercambios de puntos a token dentro de dos semanas.
-profile.send.button: ENVIAR
+profile.redeem.time: Hora
+profile.refund.success: '%d puntos han sido devuelto a su cuenta.'
+profile.send.button: GENERAR CÓDIGO
+profile.send.code: Código
+profile.send.end: Tiempo límite
+profile.send.left: Izquierda
 profile.send.menu: ENVIAR
-profile.send.prompt:INTRODUCE LA CANTIDAD QUE QUIERES ENVIAR
-profile.send.success: >-
-   ¡El código IoTeX ha sido creado satisfactoriamente! Copia el código para transferir puntos
-   entre cuentas: %s.
+profile.send.prompt:INTRODUZCA LA CANTIDAD QUE QUIERE ENVIAR
+profile.send.start: Hora de inicio
+profile.send.success: ¡El código IoTeX ha sido creado satisfactoriamente! Puede copiar el código de debajo.
+profile.send.time: Crear tiempo
+profile.send.total: Total
+profile.wallet.rank: Rango
+profile.wallet.token: Tus Token IoTeX
 stonevan.twitter: >-
    Acabo de conseguir 100 puntos gratis de IoTeX por celebrar su primer lanzamiento de su
    red de prueba. @iotex_io ¡Ven y consigue los tuyos!
 subscribe.btn: SUBSCRIBIRSE
 subscribe.desc: Con nuestros últimos progresos y eventos.
-subscribe.title: MANTENTE ACTUALIZADO
-testnet-preview.home-title:La vista previa de la red de prueba (StoneVan) será hecha pública en
+subscribe.title: MANTÉNGASE ACTUALIZADO
+testnet-preview.home-title:La vista previa de la red de prueba (StoneVan) será hecha pública el
 testnet-preview.released-event-title: ¡Nuestra vista previa de la red de prueba se ha hecho pública!
-testnet-preview.released-title: La vista previa de la red de prueba se ha hecho pública
+testnet-preview.released-title: La vista previa de la red de prueba se ha hecho pública el
 topbar.account: CUENTA
 topbar.announcements: ANUNCIOS
 topbar.blog: BLOG
@@ -248,7 +310,6 @@ topbar.careers: CARRERAS
 topbar.charity: CARIDAD
 topbar.faq: FAQ
 topbar.home: HOME
-topbar.login: ACCESO
 topbar.logout: CERRAR SESIÓN
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: SIGUIENTE
