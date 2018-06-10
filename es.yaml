@@ -17,20 +17,20 @@ captcha.incorrect_captcha: Error en el captcha
 captcha.loading_captcha: Cargando captcha...
 captcha.unknown_error: Algo fue mal. Por favor inténtelo más tarde.
 charity.tweet.summary.description: >-
-¡Agradecemos tu gran corazón! Además de los 12,000 puntos fijos puntuales
+¡Agradecemos su gran corazón! Además de los 12,000 puntos fijos puntuales
 de agradecimiento como regalo, ¡ahora pondremos su buena acción en la página web de IoTeX!
 charity-dorahacks.tweet.summary.image: 'https://s3.amazonaws.com/web-iotex-static/charity/twitter-summary-image.png'
 charity.donated: Donado
 charity.more-info: Más sobre el programa de caridad de IoTeX
 charity.question: ¿Cómo conocí IoTeX?¿Por qué estoy interesado en él?
-charity.share-message: ¡Comparte tu acto de bondad!
+charity.share-message: ¡Comparta su acto de bondad!
 charity.to: A
 charity.tweet.summary.description: >-
   ¡Agradecemos su gran corazón! Además de los 16,000 puntos fijos puntuales
    de agradecimiento como regalo, ¡ahora pondremos su buena acción en la página web de IoTeX!
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
-charity.tweet.summary.title: ¡Estás en el Tablón de Honor de IoTeX!
+charity.tweet.summary.title: ¡Está en el Tablón de Honor de IoTeX!
 claim.btn: RECLAME SUS PUNTOS
 contact.btn: CONTÁCTENOS
 contact.desc: Los expertos de IoTeX están disponibles para responder sus preguntas a través de support@iotex.io
@@ -268,7 +268,7 @@ profile.message.refund: Reembolsar
 profile.receive.amount: Cantidad
 profile.receive.button: RECIBIR
 profile.receive.menu: RECIBIR
-profile.receive.prompt: INTRODUCE EL CÓDIGO
+profile.receive.prompt: INTRODUZCA EL CÓDIGO
 profile.receive.success: ¡Felicidades! Acaba de recibir %s puntos. Vea la tabla de abajo para más detalles.
 profile.receive.time: Hora
 profile.redeem.amount: Cantidad
@@ -277,7 +277,7 @@ profile.redeem.menu: CANJEAR TOKENS
 profile.redeem.prompt: INTRODUZCA LA CANTIDAD QUE QUIERE CANJEAR POR IOTX
 profile.redeem.status: Estatus
 profile.redeem.success: >-
-   ¡Tu solicitud ha sido aceptada y está en la lista! Para evitar congestión en
+   ¡Su solicitud ha sido aceptada y está en la lista! Para evitar congestión en
    la red Ethereum, procesaremos las solicitudes gradualmente y finalizaremos todos los
    intercambios de puntos a token dentro de dos semanas.
 profile.redeem.time: Hora
