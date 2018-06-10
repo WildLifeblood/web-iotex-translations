@@ -26,21 +26,21 @@ charity.question: ¿Cómo conocí IoTeX?¿Por qué estoy interesado en él?
 charity.share-message: ¡Comparte tu acto de bondad!
 charity.to: A
 charity.tweet.summary.description: >-
-  ¡Agradecemos tu gran corazón! Además de los 16,000 puntos fijos puntuales
+  ¡Agradecemos su gran corazón! Además de los 16,000 puntos fijos puntuales
    de agradecimiento como regalo, ¡ahora pondremos su buena acción en la página web de IoTeX!
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
-charity.tweet.summary.title: ¡Estás en la Tablón de Honor de IoTeX!
-claim.btn: RECLAMA TUS PUNTOS
+charity.tweet.summary.title: ¡Estás en el Tablón de Honor de IoTeX!
+claim.btn: RECLAME SUS PUNTOS
 contact.btn: CONTÁCTENOS
 contact.desc: Los expertos de IoTeX están disponibles para responder sus preguntas a través de support@iotex.io
-contact.title: MANTENTE EN CONTACTO
+contact.title: MANTÉNGASE EN CONTACTO
 doraHacks: DoraHacks
 ethFoundation: Fundación Ethereum
 hall-of-fame.badge-section.dorahacks.desc: >-
   <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> es la
   mayor comunidad organizadora de hackatones y de desarrollo hacker en China, y ha
-  expandido su presencia en 2018 a 10 países, incluyendo los Estados Unidos,
+  expandido su presencia en 2018 a 10 países, incluyendo Estados Unidos,
   Corea del Sur, Japón, Inglaterra, e India. Hasta la fecha, DoraHacks ha organizado más
   de 100 hackatones en siete ciudades alrededor del mundo, con más de 5,000
   core hackers y 200,000 desarrolladores globales en su comunidad. DoraHacks ha
@@ -76,7 +76,7 @@ hall-of-fame.badge-section.participation-detail: >-
   fijados.
 geetest.loading_captcha: Cargando captcha...
 hall-of-fame.badge-section.title: IoTeX 1st Charity Program - Fundación ETH
-hall-of-fame.search.label: Search by your hashid or Preferred Display Name
+hall-of-fame.search.label: Busque por su hashid o por su nombre de usuario por defecto.
 hall-of-fame.thank-you.message: >-
    El crowdsourcing como medio para financiar una causa específica para una obra de caridad no es nuevo, pero
    IoTeX lo está haciendo vía “contratos inteligentes” y redirigiendo el bombo de las criptomonedas
@@ -111,7 +111,7 @@ home.about.inno.3.title.keep: Coordinación de dispositivos autónomos
 home.about.sol.desc1: >-
    A pesar de su rápida evolución, el IoT todavía está lejos de alcanzar la adopción masiva y
    carece de "aplicaciones asesinas" que atraerían nuevos usuarios al ecosistema debido a
-   problemas tales como baja escalabilidad, altos costos de operación, preocupaciones de privacidad y falta
+   problemas tales como baja escalabilidad, altos costes de operación, preocupaciones de privacidad y falta
    de valores funcionales.
 home.about.sol.desc2: >-
    IoTeX está afrontando este problema introduciendo la economía de tokens en espacios de IoT ya
@@ -121,12 +121,12 @@ home.about.sol.desc2: >-
    privacidad, aislamiento y capacidad de desarrollo para incubar nuevas aplicaciones de IoT
    y ecosistemas.
 home.alina.desc.keep: >-
-   Experiencia en marketing, ventas y gestión de proyectos en sectores corporativos y en el gobierno
+   Experiencia en marketing, ventas y gestión de proyectos en sectores corporativos y en el gobierno.
    Bcomm en Negocio Internacional y Certificación de Gestión de
    Proyectos. Entusiasta de las criptomonedas y startups.
 home.alina.name.keep: Alina Burya
 home.alina.title.keep: Gestora de la comunidad
-home.decentralized-protocol: Una red descentralizada para Internet de las Cosas
+home.decentralized-protocol: Una red descentralizada para el Internet de las Cosas
 home.dustin.desc.keep: >-
    Doctorado en Seguridad de Datos en la USC. Ingeniero de software del personal en Intel. 12 años de
    experiencia en sistemas distribuidos, protección de contenido, aceleración de hardware
@@ -166,7 +166,7 @@ home.jing.name.keep: Jing Sun
 home.jing.title.keep: Cofundador
 home.larry.desc.keep: >-
    Consultor de dirección en Oliver Wyman, especializado en operaciones digitales. Doble
-   B.S. en Finanzas y Economía, menor en Artes Visuales y Diseño de MIT.
+   B.S. en Finanzas y Economía, Minor en Artes Visuales y Diseño de MIT.
 Entusiasta de Blockchain y IoT.
 home.larry.name.keep: Larry Pang
 home.larry.title.keep: Crecimiento & Comunidad
@@ -284,12 +284,12 @@ profile.redeem.time: Hora
 profile.refund.success: '%d puntos han sido devuelto a su cuenta.'
 profile.send.button: GENERAR CÓDIGO
 profile.send.code: Código
-profile.send.end: Tiempo límite
+profile.send.end: Hora límite
 profile.send.left: Izquierda
 profile.send.menu: ENVIAR
 profile.send.prompt:INTRODUZCA LA CANTIDAD QUE QUIERE ENVIAR
 profile.send.start: Hora de inicio
-profile.send.success: ¡El código IoTeX ha sido creado satisfactoriamente! Puede copiar el código de debajo.
+profile.send.success: ¡El código de IoTeX ha sido creado satisfactoriamente! Puede copiar el código de debajo.
 profile.send.time: Crear tiempo
 profile.send.total: Total
 profile.wallet.rank: Rango
