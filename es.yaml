@@ -26,11 +26,11 @@ charity.question: ¿Cómo conocí IoTeX?¿Por qué estoy interesado en él?
 charity.share-message: ¡Comparta su acto de bondad!
 charity.to: A
 charity.tweet.summary.description: >-
-  ¡Agradecemos su gran corazón! Además de los 16,000 puntos fijos puntuales
+  ¡Agradecemos su gran corazón! Además de los 16,000 puntos fijos
    de agradecimiento como regalo, ¡ahora pondremos su buena acción en la página web de IoTeX!
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
-charity.tweet.summary.title: ¡Está en el Tablón de Honor de IoTeX!
+charity.tweet.summary.title: ¡Usted está en el Tablón de Honor de IoTeX!
 claim.btn: RECLAME SUS PUNTOS
 contact.btn: CONTÁCTENOS
 contact.desc: Los expertos de IoTeX están disponibles para responder sus preguntas a través de support@iotex.io
@@ -40,9 +40,9 @@ ethFoundation: Fundación Ethereum
 hall-of-fame.badge-section.dorahacks.desc: >-
   <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> es la
   mayor comunidad organizadora de hackatones y de desarrollo hacker en China, y ha
-  expandido su presencia en 2018 a 10 países, incluyendo Estados Unidos,
+  expandido su presencia en 2018 a 10 países más, incluyendo a Estados Unidos,
   Corea del Sur, Japón, Inglaterra, e India. Hasta la fecha, DoraHacks ha organizado más
-  de 100 hackatones en siete ciudades alrededor del mundo, con más de 5,000
+  de 100 hackatones en siete ciudades a lo largo del mundo, con más de 5,000
   core hackers y 200,000 desarrolladores globales en su comunidad. DoraHacks ha
   provisto un plataforma para desarrolladores de todos los niveles para crear más de
   1,000 aplicaciones en sus hackatones, y sus hackers han llegado a
@@ -110,7 +110,7 @@ home.about.inno.3.desc.keep:'Organización Autónoma Descentralizada para IoT, e
 home.about.inno.3.title.keep: Coordinación de dispositivos autónomos
 home.about.sol.desc1: >-
    A pesar de su rápida evolución, el IoT todavía está lejos de alcanzar la adopción masiva y
-   carece de "aplicaciones asesinas" que atraerían nuevos usuarios al ecosistema debido a
+   carece de "aplicaciones rompedoras" que atraerían nuevos usuarios al ecosistema debido a
    problemas tales como baja escalabilidad, altos costes de operación, preocupaciones de privacidad y falta
    de valores funcionales.
 home.about.sol.desc2: >-
@@ -158,7 +158,7 @@ home.jack.desc.keep: >-
 home.jack.name.keep: Jack Lee
 home.jack.title.keep: null
 home.jing.desc.keep: >-
-   Socio Fundador de Sparkland Capital, centrándose en Frontier Tech, dirige 40+
+   Socio Fundador de Sparkland Capital, centrándose en Frontier Tech, dirige más de 40
    inversiones e innovaciones en blockchain, y es director de seguridad, IoT y del Consejo en
    numerosas compañías. Amplia experiencia en startups, inversiones y construcción
    de ecosistemas.
@@ -194,7 +194,7 @@ home.qevan.desc.keep: >-
 home.qevan.name.keep: Qevan Guo
 home.qevan.title.keep: Cofundador
 home.raullen.desc.keep: >-
-   Ph.D y Investigador Científico en Cryptografía en UWaterloo. Jefe de Crypto I+D
+   Ph.D y Investigador Científico en Criptografía en UWaterloo. Jefe de Crypto I+D
    en Uber, Ingeniero de Seguridad en Google.  8+ años de experiencia en criptografía
    y blockchain.
 home.raullen.name.keep: Raullen Chai
@@ -222,8 +222,8 @@ home.site.description: >-
 ++home.slogan: Conectando el Mundo Físico Bloque por Bloque
 home.title: IoTeX
 home.vedaad.desc.keep: >-
-  Estudiante en UC Berkeley estudiando EECS and Matemáticas Aplicadas; investigador blockchain
-  en el equipo criptoeconómico en Blockchain @ Berkeley
+  Estudiante en UC Berkeley estudiando EECS and Matemáticas Aplicadas; investigador de blockchain
+  en el equipo de criptoeconomía de Blockchain @ Berkeley 
 home.vedaad.name.keep: Vedaad Shakib
 home.vedaad.title.keep: Ingeniero Blockchain Becario
 home.xinxin.desc.keep: >-
@@ -234,7 +234,7 @@ home.vincent.title.keep: Ingeniero de Software Becario
 home.xinxin.desc.keep: >-
   Ph.D en Cryptografía en University of Waterloo. Ingeniero Sr. de Investigación en Bosch Research. 14
   años de experiencia en investigación y en la industria de seguridad de información y criptografía.
-  40+ publicaciones / patentes.
+  Más de 40 publicaciones / patentes.
 home.xinxin.name.keep: Xinxin Fan
 home.xinxin.title.keep: Jefe de Cryptografía
 home.zhefeng.desc.keep: >-
@@ -250,7 +250,7 @@ home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Ingeniero Blockchain
 profile.history.category: Categoría
 profile.history.menu: HISTORIAL
-profile.history.point: Punto
+profile.history.point: Puntos
 profile.history.time: Hora
 profile.info.eth_address: Dirección ETH
 profile.info.phone_number: Teléfono
@@ -281,13 +281,13 @@ profile.redeem.success: >-
    la red Ethereum, procesaremos las solicitudes gradualmente y finalizaremos todos los
    intercambios de puntos a token dentro de dos semanas.
 profile.redeem.time: Hora
-profile.refund.success: '%d puntos han sido devuelto a su cuenta.'
+profile.refund.success: '%d puntos han sido devueltos a su cuenta.'
 profile.send.button: GENERAR CÓDIGO
 profile.send.code: Código
 profile.send.end: Hora límite
 profile.send.left: Izquierda
 profile.send.menu: ENVIAR
-profile.send.prompt:INTRODUZCA LA CANTIDAD QUE QUIERE ENVIAR
+profile.send.prompt: INTRODUZCA LA CANTIDAD QUE QUIERE ENVIAR
 profile.send.start: Hora de inicio
 profile.send.success: ¡El código de IoTeX ha sido creado satisfactoriamente! Puede copiar el código de debajo.
 profile.send.time: Crear tiempo
@@ -300,7 +300,7 @@ stonevan.twitter: >-
 subscribe.btn: SUBSCRIBIRSE
 subscribe.desc: Con nuestros últimos progresos y eventos.
 subscribe.title: MANTÉNGASE ACTUALIZADO
-testnet-preview.home-title:La vista previa de la red de prueba (StoneVan) será hecha pública el
+testnet-preview.home-title:La vista previa de la red de prueba (StoneVan) se hará pública el
 testnet-preview.released-event-title: ¡Nuestra vista previa de la red de prueba se ha hecho pública!
 testnet-preview.released-title: La vista previa de la red de prueba se ha hecho pública el
 topbar.account: CUENTA
