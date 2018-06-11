@@ -208,13 +208,6 @@ home.section.roadmap: IoTeX.HojaDeRutaTecnológica
 home.section.team: IoTeX.Equipo
 home.section.teamfrom: IoTeX.FondoDelEquipo
 home.section.useceses: IoTeX.CasosDeUso
-home.zhijie.desc.keep: >-
-  Ph.D en Ciencias de Computación en National University of Singapore. 10+ años
-  de experiencia en sistemas distribuidos, redes P2P y big data. Contribuidor y
-  PMC de Hadoop and Samza. Miembro de la Apache Software Foundation. 10+
-  publicaciones y patentes.
-+home.zhijie.name.keep: Zhijie Shen
-+home.zhijie.title.keep: Ingeniero de Personal Blockchain
 home.site.description: >-
    Una Red Descentralizada para el Internet de las Cosas (IoT), impulsada por una
    auto-escalable, extensible y privado-céntrica Blockchain. Conectando el Mundo 
@@ -246,8 +239,25 @@ home.zhefeng.title.keep: Ingeniero Blockchain
 home.zhen.desc.keep: >-
   Bachelor en Ciencias de Computación en la University of Waterloo. Entusiasta blockchain,
   de las cryptomonedas y del machine learning.
-home.zhefeng.name.keep: Zhefeng Li
-home.zhefeng.title.keep: Ingeniero Blockchain
+home.zhefeng.name.keep: Zhen Li
+home.zhefeng.title.keep: Ingeniero Blockchain Becario
+home.zhijie.desc.keep: >-
+  Ph.D en Ciencias de Computación en National University of Singapore. 10+ años
+  de experiencia en sistemas distribuidos, redes P2P y big data. Contribuidor y
+  PMC de Hadoop and Samza. Miembro de la Apache Software Foundation. 10+
+  publicaciones y patentes.
+home.zhijie.name.keep: Zhijie Shen
+home.zhijie.title.keep: Ingeniero de Personal Blockchain
+profile.eth.expiration: Expira el
+profile.eth.invalid: Por favor, introduzca una dirección ETH válida.
+profile.eth.new: Por favor, introduzca su nueva dirección ETH.
+profile.eth.new_eth: Nueva dirección ETH
+profile.eth.signature_new: Firma (de su clave privada)
+profile.eth.signature_old: Firma (de su antigua clave privada)
+profile.eth.updated: Su dirección ETH ha sido actualizada.
+profile.eth.verification_msg: Mensaje
+profile.eth.verified: Su dirección ETH ha sido verificada.
+profile.eth.verify: Verifique su dirección ETH
 profile.history.category: Categoría
 profile.history.menu: HISTORIAL
 profile.history.point: Puntos
@@ -258,13 +268,17 @@ profile.info.telegram_account_id: Telegram
 profile.message.back: ATRÁS
 profile.message.copied: El código ha sido enviado al portapapeles.
 profile.message.copy: Copiar
+profile.message.generate: Generar
 profile.message.less_than_100_points: Necesita al menos 100 puntos para enviar una solicitud.
 profile.message.loading: Cargando
+profile.message.no_eth: Necesita una dirección ETH para canjear.
 profile.message.not_a_number: Por favor, introduzca un número válido.
 profile.message.not_enough_points: No tiene suficientes puntos
+profile.message.ok: OK
 profile.message.processing: Procesándose
-profile.message.no_eth: Necesita una dirección ETH para canjear.
 profile.message.refund: Reembolsar
+profile.message.submit: ENVIAR
+profile.message.verify: VERIFICAR
 profile.receive.amount: Cantidad
 profile.receive.button: RECIBIR
 profile.receive.menu: RECIBIR
@@ -292,8 +306,6 @@ profile.send.start: Hora de inicio
 profile.send.success: ¡El código de IoTeX ha sido creado satisfactoriamente! Puede copiar el código de debajo.
 profile.send.time: Crear tiempo
 profile.send.total: Total
-profile.wallet.rank: Rango
-profile.wallet.token: Tus Token IoTeX
 stonevan.twitter: >-
    Acabo de conseguir 100 puntos gratis de IoTeX por celebrar su primer lanzamiento de su
    red de prueba. @iotex_io ¡Ven y consigue los tuyos!
