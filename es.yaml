@@ -279,6 +279,7 @@ profile.message.processing: Procesándose
 profile.message.refund: Reembolsar
 profile.message.submit: ENVIAR
 profile.message.verify: VERIFICAR
+profile.points.title: Tus Tokens IoTeX
 profile.receive.amount: Cantidad
 profile.receive.button: RECIBIR
 profile.receive.menu: RECIBIR
@@ -306,6 +307,8 @@ profile.send.start: Hora de inicio
 profile.send.success: ¡El código de IoTeX ha sido creado satisfactoriamente! Puede copiar el código de debajo.
 profile.send.time: Crear tiempo
 profile.send.total: Total
+profile.wallet.rank: Rango
++profile.wallet.title: Tus Tokens IoTeX
 stonevan.twitter: >-
    Acabo de conseguir 100 puntos gratis de IoTeX por celebrar su primer lanzamiento de su
    red de prueba. @iotex_io ¡Ven y consigue los tuyos!
@@ -315,22 +318,19 @@ subscribe.title: MANTÉNGASE ACTUALIZADO
 testnet-preview.home-title:La vista previa de la red de prueba (StoneVan) se hará pública el
 testnet-preview.released-event-title: ¡Nuestra vista previa de la red de prueba se ha hecho pública!
 testnet-preview.released-title: La vista previa de la red de prueba se hizo pública el
+topbar.about: ACERCA DE
 topbar.account: CUENTA
 topbar.announcements: ANUNCIOS
 topbar.blog: BLOG
 topbar.careers: CARRERAS
 topbar.charity: CARIDAD
-topbar.faq: FAQ
-topbar.home: HOME
-topbar.logout: CERRAR SESIÓN
-topbar.white-paper: WHITE PAPER
-whitepaper.button.next: SIGUIENTE
-whitepaper.button.previous: ANTERIOR
 topbar.explorer: EXPLORADOR
+topbar.faq: FAQ
+topbar.logout: CERRAR SESIÓN
+topbar.press: COMUNICADO DE PRENSA
 topbar.research: INVESTIGACIÓN
 topbar.resource: RECURSOS
 topbar.video: VÍDEO
-topbar.press: COMUNICADO DE PRENSA
-topbar.about: ACERCA DE
-profile.wallet.token: Tus Tokens IoTeX
-profile.wallet.rank: Rango
+topbar.white-paper: WHITE PAPER
+whitepaper.button.next: SIGUIENTE
+whitepaper.button.previous: ANTERIOR
