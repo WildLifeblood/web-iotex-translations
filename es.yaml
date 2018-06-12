@@ -167,22 +167,22 @@ home.jing.title.keep: Cofundador
 home.larry.desc.keep: >-
    Consultor de dirección en Oliver Wyman, especializado en operaciones digitales. Doble
    B.S. en Finanzas y Economía, Minor en Artes Visuales y Diseño de MIT.
-Entusiasta de Blockchain y IoT.
+Entusiasta de la Blockchain y el IoT.
 home.larry.name.keep: Larry Pang
 home.larry.title.keep: Crecimiento & Comunidad
 home.monika.desc.keep: >-
-   Especialista en tecnología de las comunicaciones con profunda experiencia en ciberseguridad,
+   Especialista en tecnología de las comunicaciones con amplia experiencia en ciberseguridad,
    privacidad, networking y tecnologías emergentes.
 home.monika.name.keep: Monika Hathaway
 home.monika.title.keep: Comunicación
 home.nick.desc.keep: >-
   +Máster en Ciencias de Computación en USC y Bachelor en University of Wisconsin-
-  +Madison. Entusiasta de desarrollo web, blockchain y machine learning.
+  +Madison. Entusiasta del desarrollo web, la blockchain y el machine learning.
 home.nick.name.keep: Nick Chen
 home.nick.title.keep: Becario Full Stack
 home.paddy.desc.keep: >-
    Ingeniero de Software Senior en Microsoft, especializado en sistemas distribuidos.
-   Contribuidor activo en proyectos de código abierto. M.S. Ciencia de Computación en Yale
+   Colaborador activo en proyectos de código abierto. M.S. Ciencia de Computación en Yale
    University.
 home.paddy.name.keep: Paddy Kan
 home.paddy.title.keep: Sistemas Distribuidos
@@ -190,12 +190,12 @@ home.powered-by: Impulsado por una Blockchain centrada en la privacidad
 home.qevan.desc.keep: >-
    Ph.D en Machine Learning y Visión por Ordenador en National University of
    Singapore. Gerente de Ingeniería e Investigador Científico en Facebook. Hacker
-   de Crecimiento. Inversor Startup y consejero. 20+ publicaciones / patentes.
+   de Crecimiento. Inversor Startup y consejero. Más de 20 publicaciones / patentes.
 home.qevan.name.keep: Qevan Guo
 home.qevan.title.keep: Cofundador
 home.raullen.desc.keep: >-
    Ph.D y Investigador Científico en Criptografía en UWaterloo. Jefe de Crypto I+D
-   en Uber, Ingeniero de Seguridad en Google.  8+ años de experiencia en criptografía
+   en Uber, Ingeniero de Seguridad en Google.  Más de 8 años de experiencia en criptografía
    y blockchain.
 home.raullen.name.keep: Raullen Chai
 home.raullen.title.keep: Cofundador
@@ -229,22 +229,22 @@ home.xinxin.desc.keep: >-
   años de experiencia en investigación y en la industria de seguridad de información y criptografía.
   Más de 40 publicaciones / patentes.
 home.xinxin.name.keep: Xinxin Fan
-home.xinxin.title.keep: Jefe de Cryptografía
+home.xinxin.title.keep: Jefe de Criptografía
 home.zhefeng.desc.keep: >-
    Máster en Ciencia de Computadores en la University of California en San Diego y Bachelor
    en Matemáticas y Ciencias de Computación en University of Wisconsin-Madison.
-   Entusiaste de la tecnología Blockchain, machine learning, y el Internet of Things.
+   Entusiasta de la tecnología Blockchain, el machine learning, y el Internet de las Cosas.
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Ingeniero Blockchain
 home.zhen.desc.keep: >-
-  Bachelor en Ciencias de Computación en la University of Waterloo. Entusiasta blockchain,
-  de las cryptomonedas y del machine learning.
+  Bachelor en Ciencias de Computación en la University of Waterloo. Entusiasta de la blockchain,
+  las criptomonedas y el machine learning.
 home.zhefeng.name.keep: Zhen Li
 home.zhefeng.title.keep: Ingeniero Blockchain Becario
 home.zhijie.desc.keep: >-
-  Ph.D en Ciencias de Computación en National University of Singapore. 10+ años
+  Ph.D en Ciencias de Computación en National University of Singapore. Más de 10 años
   de experiencia en sistemas distribuidos, redes P2P y big data. Contribuidor y
-  PMC de Hadoop and Samza. Miembro de la Apache Software Foundation. 10+
+  PMC de Hadoop y Samza. Miembro de la Apache Software Foundation. Más de 10
   publicaciones y patentes.
 home.zhijie.name.keep: Zhijie Shen
 home.zhijie.title.keep: Ingeniero de Personal Blockchain
@@ -279,7 +279,7 @@ profile.message.processing: Procesándose
 profile.message.refund: Reembolsar
 profile.message.submit: ENVIAR
 profile.message.verify: VERIFICAR
-profile.points.title: Tus Tokens IoTeX
+profile.points.title: Sus Tokens IoTeX
 profile.receive.amount: Cantidad
 profile.receive.button: RECIBIR
 profile.receive.menu: RECIBIR
@@ -290,7 +290,7 @@ profile.redeem.amount: Cantidad
 profile.redeem.button: ENVIAR APLICACIÓN
 profile.redeem.menu: CANJEAR TOKENS
 profile.redeem.prompt: INTRODUZCA LA CANTIDAD QUE QUIERE CANJEAR POR IOTX
-profile.redeem.status: Estatus
+profile.redeem.status: Estado
 profile.redeem.success: >-
    ¡Su solicitud ha sido aceptada y está en la lista! Para evitar congestión en
    la red Ethereum, procesaremos las solicitudes gradualmente y finalizaremos todos los
@@ -308,7 +308,7 @@ profile.send.success: ¡El código de IoTeX ha sido creado satisfactoriamente! P
 profile.send.time: Crear tiempo
 profile.send.total: Total
 profile.wallet.rank: Rango
-+profile.wallet.title: Tus Tokens IoTeX
++profile.wallet.title: Sus Tokens IoTeX
 stonevan.twitter: >-
    Acabo de conseguir 100 puntos gratis de IoTeX por celebrar su primer lanzamiento de su
    red de prueba. @iotex_io ¡Ven y consigue los tuyos!
