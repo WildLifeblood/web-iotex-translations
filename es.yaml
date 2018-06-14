@@ -271,6 +271,7 @@ profile.message.copy: Copiar
 profile.message.generate: Generar
 profile.message.less_than_100_points: Necesita al menos 100 puntos para enviar una solicitud.
 profile.message.loading: Cargando
+profile.message.memo: Nota
 profile.message.no_eth: Necesita una dirección ETH para canjear.
 profile.message.not_a_number: Por favor, introduzca un número válido.
 profile.message.not_enough_points: No tiene suficientes puntos
@@ -279,12 +280,13 @@ profile.message.processing: Procesándose
 profile.message.refund: Reembolsar
 profile.message.submit: ENVIAR
 profile.message.verify: VERIFICAR
+profile.message.view: Ver
 profile.points.title: Sus Tokens IoTeX
 profile.receive.amount: Cantidad
 profile.receive.button: RECIBIR
 profile.receive.menu: RECIBIR
 profile.receive.prompt: INTRODUZCA EL CÓDIGO
-profile.receive.success: ¡Felicidades! Acaba de recibir %s puntos. Vea la tabla de abajo para más detalles.
+profile.receive.success: ¡Felicidades! Acaba de recibir %d puntos.
 profile.receive.time: Hora
 profile.redeem.amount: Cantidad
 profile.redeem.button: ENVIAR APLICACIÓN
@@ -297,15 +299,16 @@ profile.redeem.success: >-
    intercambios de puntos a token dentro de dos semanas.
 profile.redeem.time: Hora
 profile.refund.success: '%d puntos han sido devueltos a su cuenta.'
+profile.send.amount: Cantidad
 profile.send.button: GENERAR CÓDIGO
 profile.send.code: Código
 profile.send.end: Hora límite
 profile.send.left: Izquierda
+profile.send.memo: Nota (opcional)
 profile.send.menu: ENVIAR
 profile.send.prompt: INTRODUZCA LA CANTIDAD QUE QUIERE ENVIAR
 profile.send.start: Hora de inicio
-profile.send.success: ¡El código de IoTeX ha sido creado satisfactoriamente! Puede copiar el código de debajo.
-profile.send.time: Crear tiempo
+profile.send.success: ¡El código de IoTeX ha sido creado satisfactoriamente!
 profile.send.total: Total
 profile.wallet.rank: Rango
 +profile.wallet.title: Sus Tokens IoTeX
