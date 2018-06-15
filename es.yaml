@@ -321,6 +321,9 @@ subscribe.title: MANTÉNGASE ACTUALIZADO
 testnet-preview.home-title:La vista previa de la red de prueba (StoneVan) se hará pública el
 testnet-preview.released-event-title: ¡Nuestra vista previa de la red de prueba se ha hecho pública!
 testnet-preview.released-title: La vista previa de la red de prueba se hizo pública el
+testnet-alpha.home-title: La Alfa de la red de prueba (Strive) será de Código Abierto el
+testnet-alpha.released-event-title: ¡Nuestra Alfa de la red de prueba ha sido hecha pública!
+testnet-alpha.released-title: La Alpha de la red de prueba ha sido hecha pública el
 topbar.about: ACERCA DE
 topbar.account: CUENTA
 topbar.announcements: ANUNCIOS
