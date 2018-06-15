@@ -45,7 +45,7 @@ hall-of-fame.badge-section.dorahacks.desc: >-
   Cina, e nel 2018 ha allargato la sua influenza a 10 Paesi, inclusi Stati Uniti,
   Korea del Sud, Giappone, Inghilterra, e India. Ad oggi, DoraHacks ha organizzato
   più di 100 hackathon in sette città del mondo, con più di 5,000 sviluppatori
-  interni e 200,000 sviluppatori globali appartenenti alla loro comunità.
+  interni e 200,000 sviluppatori globali appartenenti alla loro community.
   DoraHacks fornisce una piattaforma per sviluppatori di ogni livello di
   esperienza per creare più di 1000 applicazioni nei loro hackathon, ed i loro
   hacker sono andati avanti avviando e dirigendo diverse startup su blockchain,
@@ -78,23 +78,23 @@ hall-of-fame.badge-section.participation-detail: >-
   Per i dettagli sulla partecipazione, unisciti al <a target="_blank"
   href="https://t.me/IoTeXGroup">Gruppo Telegram</a> ufficiale e tieni d'occhio i
   messaggi che vengono messi in evidenza.
-hall-of-fame.badge-section.title: 1° Programma di Beneficanza IoTeX — Fondazione ETH
+hall-of-fame.badge-section.title: 1° Programma di Beneficanza IoTeX — ETH Foundation
 hall-of-fame.search.label: Cerca in base al tuo hashid oppure al nome che hai scelto
 hall-of-fame.thank-you.message: >-
   Il Crowdsourcing come motodo per finanziare una causa specifica per un ente di
   beneficenza non è nuovo, ma IoTeX lo sta facendo tramite “smart contract” e
   reindirizzando la fama delle criptovalute verso iniziative benefiche. Nei
-  prossimi mesi, attraverso il suo Programma di Ricompensa alla Comunità, IoTeX continuerà
+  prossimi mesi, attraverso il suo Programma di Community Reward, IoTeX continuerà
   a selezionare alcuni programmi di beneficenza in linea con la sua missione di
   “Connettere il Mondo Fisico, Bloccco per Blocco”, come parte del Programma di
-  Ricompensa alla Comunità.
+  Community Reward.
   
   
-  IoTex crede nella crescita insieme alla comunità e
+  IoTex crede nella crescita insieme alla community e
   nella connessione del mondo fisico blocco per blocco. E' un obiettivo molto
-  ambizioso ma che può essere raggiunto grazie a un team forte e a una comunità
+  ambizioso ma che può essere raggiunto grazie a un team forte e a una community
   solidale. Insieme per superare la frontiera dello sviluppo dell'ecosistema
-  blockchain, IoTeX spera davvero che la comunità capisca l'intento originario e
+  blockchain, IoTeX spera davvero che la community capisca l'intento originario e
   contribuisca a promuovere la causa.
 hall-of-fame.title: Donazione IoTeX
 home.about.inno.0.desc.keep: >-
@@ -134,12 +134,12 @@ home.alina.name.keep: Alina Burya
 home.alina.title.keep: Community Manager
 home.decentralized-protocol: Una Rete Decentralizata per l'Internet of Things
 home.dustin.desc.keep: >-
-  Dottorato di ricerca in Data Security presso USC. Software engineer nello staff
+  Dottorato di ricerca in Data Security presso USC. Ingegnere del Software nello staff
   di Intel. 12 anni di esperienza nei sistemi distribuiti, protezione dei
   contenuti, accelerazione hardware video, streaming video di rete, driver
   grafici. Appassionato di blockchain e crittografia.
 home.dustin.name.keep: Dustin Xie
-home.dustin.title.keep: Blockchain Engineer
+home.dustin.title.keep: Ingegnere della Blockchain
 home.fan.desc.keep: >-
   In precedenza è stato socio fondatore di Sequoia Capital China e Direttore di
   DFJ ePlanet Ventures. Classificato da Forbes come uno dei principali venture
@@ -158,8 +158,8 @@ home.hao.desc.keep: >-
 home.hao.name.keep: Hao Cui
 home.hao.title.keep: Ingegnere del Software stagista
 home.jack.desc.keep: >-
-  Co-Fondatore Managing Partner di HCM Capital, Foxconn Technology Group.
-  Co-Fondatore e direttore esecutivo di Chained Finance Ltd., Fondatore e
+  Cofondatore Managing Partner di HCM Capital, Foxconn Technology Group.
+  Cofondatore e direttore esecutivo di Chained Finance Ltd., Fondatore e
   Direttore esecutivo di FnConn e Dirigente di Abra.
 home.jack.name.keep: Jack Lee
 home.jack.title.keep: null
@@ -169,13 +169,13 @@ home.jing.desc.keep: >-
   Consigliere di amministrazione in numerose aziende. Vasta esperienza in startup,
   investimenti e realizzazione di ecosistemi.
 home.jing.name.keep: Jing Sun
-home.jing.title.keep: Co-Fondatore
+home.jing.title.keep: Cofondatore
 home.larry.desc.keep: >-
   Consulente di Management presso Oliver Wyman, specializzato in Operazioni
   Digitali. Doppia laurea in Finanza ed Economia, Visual Arts & Design come
   materia complementare al MIT. Appassionato di Blockchain e di IoT.
 home.larry.name.keep: Larry Pang
-home.larry.title.keep: Crescita e Comunità
+home.larry.title.keep: Crescita e Community
 home.monika.desc.keep: >-
   Specialista in tecnologie di comunicazione con profonda esperienza in materia di
   sicurezza informatica, privacy, reti e tecnologie emergenti.
@@ -199,13 +199,13 @@ home.qevan.desc.keep: >-
   Facebook. Appassionato di informatica. Investitore e consulente di startup.
   Oltre 20 pubblicazioni/brevetti.
 home.qevan.name.keep: Qevan Guo
-home.qevan.title.keep: Co-Fondatore
+home.qevan.title.keep: Cofondatore
 home.raullen.desc.keep: >-
   Dottorato di Ricerca, Ricercatore Scientifico in Crittografia presso UWaterloo.
-  Responsabile della ricerca e sviluppo sulle Cryptomonete presso Uber, Security
-  Engineer presso Google. Oltre 8 anni di esperienza in crittografia e blockchain.
+  Responsabile della ricerca e sviluppo sulle Cryptomonete presso Uber, Sicurezza
+  Ingegnere presso Google. Oltre 8 anni di esperienza in crittografia e blockchain.
 home.raullen.name.keep: Raullen Chai
-home.raullen.title.keep: Co-Fondatore
+home.raullen.title.keep: Cofondatore
 home.section.advisors: IoTeX.Consulenti
 home.section.arch: IoTeX.Architettura
 home.section.innovations: IoTeX.Innovazioni
@@ -232,7 +232,7 @@ home.vincent.desc.keep: >-
 home.vincent.name.keep: Vincent Vuong
 home.vincent.title.keep: Stagista di Ingegneria del Software
 home.xinxin.desc.keep: >-
-  Dottorato di Ricerca in Crittografia presso UWaterloo. Sr. Research Engineer
+  Dottorato di Ricerca in Crittografia presso UWaterloo. Ingegnere Ricercatore Sr.
   presso Bosch Research. 14 anni di ricerca ed esperienza nel settore della
   sicurezza delle informazioni e della crittografia. Oltre 40
   pubblicazioni/brevetti.
@@ -240,8 +240,8 @@ home.xinxin.name.keep: Xinxin Fan
 home.xinxin.title.keep: Capo della Crittografia
 home.zhefeng.desc.keep: >-
   Master in Computer Science presso l'Università della California, San Diego e
-  Laurea Breve in Matematica e Informatica presso l'Università del
-  Wisconsin-Madison. Appassionato di tecnologia blockchain, apprendimento
+  Laurea Breve in Matematica e Informatica presso University of Wisconsin-
+  Madison. Appassionato di tecnologia blockchain, apprendimento
   automatico e Internet of Things.
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Ingegnere della Blockchain
