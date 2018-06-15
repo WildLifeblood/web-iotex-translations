@@ -36,7 +36,7 @@ contact.btn: CONTÁCTENOS
 contact.desc: Los expertos de IoTeX están disponibles para responder sus preguntas a través de support@iotex.io
 contact.title: MANTÉNGASE EN CONTACTO
 doraHacks: DoraHacks
-ethFoundation: Fundación Ethereum
+ethFoundation: Ethereum Foundation
 hall-of-fame.badge-section.dorahacks.desc: >-
   <a target="_blank" href="https://www.dorahacks.com/">DoraHacks</a> es la
   mayor comunidad organizadora de hackatones y de desarrollo hacker en China, y ha
@@ -64,7 +64,7 @@ hall-of-fame.badge-section.eth-foundation.desc: >-
   hacia delante a toda la industria a través de una rigurosa investigación y colaboración.
   Necesitamos talentos y las mentes más brillantes para hacer una marca en el mundo. Una pequeña
   pero poderosa manera de ayudar a nuestra causa es donar ETH a la
-  Fundación Ethereum para ayudar a financiar la investigación blockchain.
+  Ethereum Foundation para ayudar a financiar la investigación blockchain.
   
   
   Para más detalle vea <a target="_blank"
@@ -75,7 +75,7 @@ hall-of-fame.badge-section.participation-detail: >-
   href="https://t.me/IoTeXGroup">Telegram Group</a> y manténgase atento a los mensajes
   fijados.
 geetest.loading_captcha: Cargando captcha...
-hall-of-fame.badge-section.title: IoTeX 1st Charity Program - Fundación ETH
+hall-of-fame.badge-section.title: IoTeX 1st Charity Program - ETH Foundation
 hall-of-fame.search.label: Busque por su hashid o por su nombre de usuario por defecto.
 hall-of-fame.thank-you.message: >-
    El crowdsourcing como medio para financiar una causa específica para una obra de caridad no es nuevo, pero
@@ -147,7 +147,7 @@ home.fan.desc.keep: >-
 home.guang.name.keep: Guang Gong
 home.guang.title.keep: null
 home.hao.desc.keep: >-
-   Máster en Ingeniería de Software en Carnegie Mellon University. Entusiasta web
+   Máster en Software Engineering en Carnegie Mellon University. Entusiasta web
    y blockchain.
 ++home.hao.name.keep: Hao Cui
 home.hao.title.keep: Ingeniero de Software Becario
@@ -167,7 +167,7 @@ home.jing.title.keep: Cofundador
 home.larry.desc.keep: >-
    Consultor de dirección en Oliver Wyman, especializado en operaciones digitales. Doble
    B.S. en Finanzas y Economía, Minor en Artes Visuales y Diseño de MIT.
-Entusiasta de la Blockchain y el IoT.
+   Entusiasta de la Blockchain y el IoT.
 home.larry.name.keep: Larry Pang
 home.larry.title.keep: Crecimiento & Comunidad
 home.monika.desc.keep: >-
@@ -176,26 +176,26 @@ home.monika.desc.keep: >-
 home.monika.name.keep: Monika Hathaway
 home.monika.title.keep: Comunicación
 home.nick.desc.keep: >-
-  +Máster en Ciencias de Computación en USC y Bachelor en University of Wisconsin-
-  +Madison. Entusiasta del desarrollo web, la blockchain y el machine learning.
+   Máster en Computer Science en USC y Bachelor en University of Wisconsin-
+   Madison. Entusiasta del desarrollo web, la blockchain y el machine learning.
 home.nick.name.keep: Nick Chen
 home.nick.title.keep: Becario Full Stack
 home.paddy.desc.keep: >-
    Ingeniero de Software Senior en Microsoft, especializado en sistemas distribuidos.
-   Colaborador activo en proyectos de código abierto. M.S. Ciencia de Computación en Yale
+   Colaborador activo en proyectos de código abierto. M.S. Computer Science en Yale
    University.
 home.paddy.name.keep: Paddy Kan
 home.paddy.title.keep: Sistemas Distribuidos
 home.powered-by: Impulsado por una Blockchain centrada en la privacidad
 home.qevan.desc.keep: >-
-   Ph.D en Machine Learning y Visión por Ordenador en National University of
+   Ph.D en Machine Learning y Computer Vision en National University of
    Singapore. Gerente de Ingeniería e Investigador Científico en Facebook. Hacker
    de Crecimiento. Inversor Startup y consejero. Más de 20 publicaciones / patentes.
 home.qevan.name.keep: Qevan Guo
 home.qevan.title.keep: Cofundador
 home.raullen.desc.keep: >-
-   Ph.D y Investigador Científico en Criptografía en UWaterloo. Jefe de Crypto I+D
-   en Uber, Ingeniero de Seguridad en Google.  Más de 8 años de experiencia en criptografía
+   Ph.D e Investigador Científico en Criptografía en UWaterloo. Jefe de Crypto I+D
+   en Uber e Ingeniero de Seguridad en Google. Más de 8 años de experiencia en criptografía
    y blockchain.
 home.raullen.name.keep: Raullen Chai
 home.raullen.title.keep: Cofundador
@@ -215,7 +215,7 @@ home.site.description: >-
 ++home.slogan: Conectando el Mundo Físico Bloque por Bloque
 home.title: IoTeX
 home.vedaad.desc.keep: >-
-  Estudiante en UC Berkeley estudiando EECS and Matemáticas Aplicadas; investigador de blockchain
+  Estudiante en UC Berkeley estudiando EECS y Applied Math; investigador de blockchain
   en el equipo de criptoeconomía de Blockchain @ Berkeley 
 home.vedaad.name.keep: Vedaad Shakib
 home.vedaad.title.keep: Ingeniero Blockchain Becario
@@ -231,9 +231,9 @@ home.xinxin.desc.keep: >-
 home.xinxin.name.keep: Xinxin Fan
 home.xinxin.title.keep: Jefe de Criptografía
 home.zhefeng.desc.keep: >-
-   Máster en Ciencia de Computadores en la University of California en San Diego y Bachelor
-   en Matemáticas y Ciencias de Computación en University of Wisconsin-Madison.
-   Entusiasta de la tecnología Blockchain, el machine learning, y el Internet de las Cosas.
+   Máster en Computer Science en la University of California en San Diego y Bachelor
+   en Mathematics and Computer Science en University of Wisconsin-Madison.
+   Entusiasta de la tecnología Blockchain, el machine learning y el Internet de las Cosas.
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Ingeniero Blockchain
 home.zhen.desc.keep: >-
@@ -242,7 +242,7 @@ home.zhen.desc.keep: >-
 home.zhefeng.name.keep: Zhen Li
 home.zhefeng.title.keep: Ingeniero Blockchain Becario
 home.zhijie.desc.keep: >-
-  Ph.D en Ciencias de Computación en National University of Singapore. Más de 10 años
+  Ph.D en Computer Science en National University of Singapore. Más de 10 años
   de experiencia en sistemas distribuidos, redes P2P y big data. Contribuidor y
   PMC de Hadoop y Samza. Miembro de la Apache Software Foundation. Más de 10
   publicaciones y patentes.
