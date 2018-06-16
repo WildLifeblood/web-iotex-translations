@@ -110,18 +110,18 @@ home.about.inno.3.desc.keep:'Organización Autónoma Descentralizada para IoT, e
 home.about.inno.3.title.keep: Coordinación de dispositivos autónomos
 home.about.sol.desc1: >-
    A pesar de su rápida evolución, el IoT todavía está lejos de alcanzar la adopción masiva y
-   carece de "aplicaciones rompedoras" que atraerían nuevos usuarios al ecosistema debido a
-   problemas tales como baja escalabilidad, altos costes de operación, preocupaciones de privacidad y falta
+   carece de "aplicaciones disruptivas" que atraerían nuevos usuarios al ecosistema debido a
+   problemas tales como baja escalabilidad, altos costes de operación, preocupación sobre la privacidad y falta
    de valores funcionales.
 home.about.sol.desc2: >-
-   IoTeX está afrontando este problema introduciendo la economía de tokens en espacios de IoT ya
-   que creemos firmemente que los incentivos criptográficos, así como el esfuerzo de la comunidad son
+   IoTeX está afrontando este problema introduciendo la economía de tokens en espacios de IoT, ya
+   que creemos firmemente que los incentivos criptográficos, así como el esfuerzo de la comunidad, son
    las dos fuerzas clave para impulsar innovaciones en el espacio del IoT. En resumen, IoTeX es la
-   siguiente generación de plataforma blockchain orientada a IoT con gran escalabilidad,
+   siguiente generación de plataforma blockchain orientada al IoT, con gran escalabilidad,
    privacidad, aislamiento y capacidad de desarrollo para incubar nuevas aplicaciones de IoT
    y ecosistemas.
 home.alina.desc.keep: >-
-   Experiencia en marketing, ventas y gestión de proyectos en sectores corporativos y en el gobierno.
+   Experiencia en marketing, ventas y gestión de proyectos en sectores corporativos y gubernamentales.
    Bcomm en Negocio Internacional y Certificación de Gestión de
    Proyectos. Entusiasta de las criptomonedas y startups.
 home.alina.name.keep: Alina Burya
@@ -190,7 +190,7 @@ home.powered-by: Impulsado por una Blockchain centrada en la privacidad
 home.qevan.desc.keep: >-
    Ph.D en Machine Learning y Computer Vision en National University of
    Singapore. Gerente de Ingeniería e Investigador Científico en Facebook. Hacker
-   de Crecimiento. Inversor Startup y consejero. Más de 20 publicaciones / patentes.
+   de Crecimiento. Inversor Startup y consejero. Más de 20 publicaciones y/o patentes.
 home.qevan.name.keep: Qevan Guo
 home.qevan.title.keep: Cofundador
 home.raullen.desc.keep: >-
@@ -220,24 +220,24 @@ home.vedaad.desc.keep: >-
 home.vedaad.name.keep: Vedaad Shakib
 home.vedaad.title.keep: Ingeniero Blockchain Becario
 home.xinxin.desc.keep: >-
-  Ciencias de Computación en la University of Waterloo. Entusiasta de la seguridad y
+  Computer Science en la University of Waterloo. Entusiasta de la seguridad y
   blockchain.
 home.vincent.name.keep: Vincent Vuong
 home.vincent.title.keep: Ingeniero de Software Becario
 home.xinxin.desc.keep: >-
   Ph.D en Cryptografía en University of Waterloo. Ingeniero Sr. de Investigación en Bosch Research. 14
   años de experiencia en investigación y en la industria de seguridad de información y criptografía.
-  Más de 40 publicaciones / patentes.
+  Más de 40 publicaciones y/o patentes.
 home.xinxin.name.keep: Xinxin Fan
 home.xinxin.title.keep: Jefe de Criptografía
 home.zhefeng.desc.keep: >-
    Máster en Computer Science en la University of California en San Diego y Bachelor
-   en Mathematics and Computer Science en University of Wisconsin-Madison.
+   en Mathematics y Computer Science en University of Wisconsin-Madison.
    Entusiasta de la tecnología Blockchain, el machine learning y el Internet de las Cosas.
 home.zhefeng.name.keep: Zhefeng Li
 home.zhefeng.title.keep: Ingeniero Blockchain
 home.zhen.desc.keep: >-
-  Bachelor en Ciencias de Computación en la University of Waterloo. Entusiasta de la blockchain,
+  Bachelor en Computer Science en la University of Waterloo. Entusiasta de la blockchain,
   las criptomonedas y el machine learning.
 home.zhefeng.name.keep: Zhen Li
 home.zhefeng.title.keep: Ingeniero Blockchain Becario
@@ -252,7 +252,7 @@ profile.eth.eth_new: 4. Introduzca su nueva dirección ETH
 profile.eth.expiration: Expira el
 profile.eth.invalid: Por favor, introduzca una dirección ETH válida.
 profile.eth.message: '1. Copie el mensaje:'
- profile.eth.sign_new: '2. Firme el mensaje con su clave privada:'
+profile.eth.sign_new: '2. Firme el mensaje con su clave privada:'
 profile.eth.sign_old: '2. Firme el mensaje con su ANTIGUA clave privada:'
 profile.eth.signature: 3. Rellene la firma
 profile.eth.update: Actualice su dirección ETH
@@ -321,16 +321,16 @@ profile.wallet.rank: Rango
 profile.wallet.title: Sus Tokens IoTeX
 stonevan.twitter: >-
    Acabo de conseguir 100 puntos gratis de IoTeX por celebrar su primer lanzamiento de su
-   red de prueba. @iotex_io ¡Ven y consigue los tuyos!
+   Testnet. @iotex_io ¡Ven y consigue los tuyos!
 subscribe.btn: SUBSCRIBIRSE
 subscribe.desc: Con nuestros últimos progresos y eventos.
 subscribe.title: MANTÉNGASE ACTUALIZADO
-testnet-alpha.home-title: La Alfa de la red de prueba (Strive) será de Código Abierto el
-testnet-alpha.released-event-title: ¡Nuestra Alfa de la red de prueba ha sido hecha pública!
-testnet-alpha.released-title: La Alpha de la red de prueba ha sido hecha pública el
-testnet-preview.home-title:La vista previa de la red de prueba (StoneVan) se hará pública el
-testnet-preview.released-event-title: ¡Nuestra vista previa de la red de prueba se ha hecho pública!
-testnet-preview.released-title: La vista previa de la red de prueba se hizo pública el
+testnet-alpha.home-title: La Alfa de la Testnet (Strive) será de Código Abierto el
+testnet-alpha.released-event-title: ¡Nuestra Alfa de la Testnet ha sido hecha pública!
+testnet-alpha.released-title: La Alfa de la Testnet se hizo pública el
+testnet-preview.home-title: La vista previa de la Testnet (StoneVan) se hará pública el
+testnet-preview.released-event-title: ¡Nuestra vista previa de la Testnet se ha hecho pública!
+testnet-preview.released-title: La vista previa de la Testnet se hizo pública el
 topbar.about: ACERCA DE
 topbar.account: CUENTA
 topbar.announcements: ANUNCIOS
