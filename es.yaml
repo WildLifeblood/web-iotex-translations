@@ -138,9 +138,9 @@ home.fan.desc.keep: >-
    Anteriormente trabajó como socio fundador de Sequoia Capital China, y como
    Director de DFJ ePlanet Ventures. Clasificada por Forbes como una de las empresas líderes
    de capital riesgo en su lista anual Midas de China.
-++home.fan.name.keep: Fan Zhang
-++home.fan.title.keep: null
-++home.guang.desc.keep: >-
+home.fan.name.keep: Fan Zhang
+home.fan.title.keep: null
+home.guang.desc.keep: >-
    Fellow en IEEE. Profesor en University of Waterloo, Canadá. Científico de alto nivel en
    criptografía y criptografía ligera, en redes ad hoc y en Seguridad en Identificación de Radiofrecuencias
    (RFID).
@@ -149,7 +149,7 @@ home.guang.title.keep: null
 home.hao.desc.keep: >-
    Máster en Software Engineering en Carnegie Mellon University. Entusiasta web
    y blockchain.
-++home.hao.name.keep: Hao Cui
+home.hao.name.keep: Hao Cui
 home.hao.title.keep: Ingeniero de Software Becario
 home.jack.desc.keep: >-
    Cofundador Socio de Dirección de HCM Capital, Foxconn Technology Group.
@@ -212,7 +212,7 @@ home.site.description: >-
    Una Red Descentralizada para el Internet de las Cosas (IoT), impulsada por una
    auto-escalable, extensible y privado-céntrica Blockchain. Conectando el Mundo 
    Físico, Bloque por Bloque.
-++home.slogan: Conectando el Mundo Físico Bloque por Bloque
+home.slogan: Conectando el Mundo Físico Bloque por Bloque
 home.title: IoTeX
 home.vedaad.desc.keep: >-
   Estudiante en UC Berkeley estudiando EECS y Applied Math; investigador de blockchain
@@ -248,14 +248,15 @@ home.zhijie.desc.keep: >-
   publicaciones y patentes.
 home.zhijie.name.keep: Zhijie Shen
 home.zhijie.title.keep: Ingeniero de Personal Blockchain
+profile.eth.eth_new: 4. Introduzca su nueva dirección ETH
 profile.eth.expiration: Expira el
 profile.eth.invalid: Por favor, introduzca una dirección ETH válida.
-profile.eth.new: Por favor, introduzca su nueva dirección ETH.
-profile.eth.new_eth: Nueva dirección ETH
-profile.eth.signature_new: Firma (de su clave privada)
-profile.eth.signature_old: Firma (de su antigua clave privada)
+profile.eth.message: '1. Copie el mensaje:'
+ profile.eth.sign_new: '2. Firme el mensaje con su clave privada:'
+profile.eth.sign_old: '2. Firme el mensaje con su ANTIGUA clave privada:'
+profile.eth.signature: 3. Rellene la firma
+profile.eth.update: Actualice su dirección ETH
 profile.eth.updated: Su dirección ETH ha sido actualizada.
-profile.eth.verification_msg: Mensaje
 profile.eth.verified: Su dirección ETH ha sido verificada.
 profile.eth.verify: Verifique su dirección ETH
 profile.history.category: Categoría
@@ -266,8 +267,10 @@ profile.info.eth_address: Dirección ETH
 profile.info.phone_number: Teléfono
 profile.info.telegram_account_id: Telegram
 profile.message.back: ATRÁS
+profile.message.change: CAMBIAR
+profile.message.close: Cerrar
 profile.message.copied: El código ha sido enviado al portapapeles.
-profile.message.copy: Copiar
+profile.message.copy: COPIAR
 profile.message.generate: Generar
 profile.message.less_than_100_points: Necesita al menos 100 puntos para enviar una solicitud.
 profile.message.loading: Cargando
@@ -277,10 +280,13 @@ profile.message.not_a_number: Por favor, introduzca un número válido.
 profile.message.not_enough_points: No tiene suficientes puntos
 profile.message.ok: OK
 profile.message.processing: Procesándose
-profile.message.refund: Reembolsar
+profile.message.refund: REEMBOLSAR
+profile.message.result: Resultado
+profile.message.set: FIJAR
+profile.message.sign: FIRMAR
 profile.message.submit: ENVIAR
 profile.message.verify: VERIFICAR
-profile.message.view: Ver
+profile.message.view: VER
 profile.points.title: Sus Tokens IoTeX
 profile.receive.amount: Cantidad
 profile.receive.button: RECIBIR
@@ -310,20 +316,21 @@ profile.send.prompt: INTRODUZCA LA CANTIDAD QUE QUIERE ENVIAR
 profile.send.start: Hora de inicio
 profile.send.success: ¡El código de IoTeX ha sido creado satisfactoriamente!
 profile.send.total: Total
+profile.wallet.exchange: Exchanges
 profile.wallet.rank: Rango
-+profile.wallet.title: Sus Tokens IoTeX
+profile.wallet.title: Sus Tokens IoTeX
 stonevan.twitter: >-
    Acabo de conseguir 100 puntos gratis de IoTeX por celebrar su primer lanzamiento de su
    red de prueba. @iotex_io ¡Ven y consigue los tuyos!
 subscribe.btn: SUBSCRIBIRSE
 subscribe.desc: Con nuestros últimos progresos y eventos.
 subscribe.title: MANTÉNGASE ACTUALIZADO
-testnet-preview.home-title:La vista previa de la red de prueba (StoneVan) se hará pública el
-testnet-preview.released-event-title: ¡Nuestra vista previa de la red de prueba se ha hecho pública!
-testnet-preview.released-title: La vista previa de la red de prueba se hizo pública el
 testnet-alpha.home-title: La Alfa de la red de prueba (Strive) será de Código Abierto el
 testnet-alpha.released-event-title: ¡Nuestra Alfa de la red de prueba ha sido hecha pública!
 testnet-alpha.released-title: La Alpha de la red de prueba ha sido hecha pública el
+testnet-preview.home-title:La vista previa de la red de prueba (StoneVan) se hará pública el
+testnet-preview.released-event-title: ¡Nuestra vista previa de la red de prueba se ha hecho pública!
+testnet-preview.released-title: La vista previa de la red de prueba se hizo pública el
 topbar.about: ACERCA DE
 topbar.account: CUENTA
 topbar.announcements: ANUNCIOS
