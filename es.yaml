@@ -284,7 +284,7 @@ profile.message.refund: REEMBOLSAR
 profile.message.result: Resultado
 profile.message.set: FIJAR
 profile.message.sign: FIRMAR
-profile.message.submit: ENVIAR
+profile.message.submit: Enviar
 profile.message.verify: VERIFICAR
 profile.message.view: VER
 profile.points.title: Sus Tokens IoTeX
