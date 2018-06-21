@@ -17,17 +17,17 @@ captcha.incorrect_captcha: Error en el captcha
 captcha.loading_captcha: Cargando captcha...
 captcha.unknown_error: Algo fue mal. Por favor inténtelo más tarde.
 charity.tweet.summary.description: >-
-¡Agradecemos su gran corazón! Además de los 12,000 puntos fijos puntuales
-de agradecimiento como regalo, ¡ahora pondremos su buena acción en la página web de IoTeX!
+¡Agradecemos su gran corazón! Además de los 12,000 puntos
+de agradecimiento como regalo, ¡ahora su buena acción se publicará en la página web de IoTeX!
 charity-dorahacks.tweet.summary.image: 'https://s3.amazonaws.com/web-iotex-static/charity/twitter-summary-image.png'
 charity.donated: Donado
 charity.more-info: Más sobre el programa de caridad de IoTeX
-charity.question: ¿Cómo conocí IoTeX?¿Por qué estoy interesado en él?
+charity.question: ¿Cómo conocí IoTeX? ¿Por qué estoy interesado en él?
 charity.share-message: ¡Comparta su acto de bondad!
 charity.to: A
 charity.tweet.summary.description: >-
   ¡Agradecemos su gran corazón! Además de los 16,000 puntos fijos
-   de agradecimiento como regalo, ¡ahora pondremos su buena acción en la página web de IoTeX!
+   de agradecimiento como regalo, ¡ahora su buena acción se publicará en la página web de IoTeX!
 charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: ¡Usted está en el Tablón de Honor de IoTeX!
@@ -44,10 +44,10 @@ hall-of-fame.badge-section.dorahacks.desc: >-
   Corea del Sur, Japón, Inglaterra, e India. Hasta la fecha, DoraHacks ha organizado más
   de 100 hackatones en siete ciudades a lo largo del mundo, con más de 5,000
   core hackers y 200,000 desarrolladores globales en su comunidad. DoraHacks ha
-  provisto un plataforma para desarrolladores de todos los niveles para crear más de
-  1,000 aplicaciones en sus hackatones, y sus hackers han llegado a
-  empezar y liderar varias startups blockchain, como ProChain y CorTex — y
-  están solo empezando.
+  provisto una plataforma para desarrolladores de todos los niveles para crear más de
+  1,000 aplicaciones en sus hackatones, y sus hackers han iniciado
+  y liderado varias startups blockchain, como ProChain y CorTex — y
+  eso es solo el comienzo.
   
   Para más detalle vea <a target="_blank"
   href="https://medium.com/iotex/iotex-charity-program-ii-dorahacks-b5828a4c5681">IoTeX
@@ -56,42 +56,42 @@ hall-of-fame.badge-section.dorahacks.title: 2º Programa de Caridad de IoTeX —
 hall-of-fame.badge-section.eth-foundation.desc: >-
   <a target="_blank" href="https://www.ethereum.org/foundation">Ethereum</a> ha
   revolucionado el mundo de la cadena de bloques los últimos cuatro años e hizo
-   que “blockchain” fuera la nueva palabra de moda. Como líder de la industria, Ethereum ha provisto
+  de “blockchain” la nueva palabra de moda. Como líder de la industria, Ethereum ha provisto
   <a target="_blank"
   href="https://blog.ethereum.org/2018/03/07/announcing-beneficiaries-ethereum-foundation-grants/">grants</a>
   para alentar a los investigadores y desarrolladores a trabajar en varios frentes para apoyar
-  todo el ecosistema blockchain. IoTeX cree firmemente que podemos llevar
+  todo el ecosistema blockchain. En IoTeX creemos firmemente que podemos llevar
   hacia delante a toda la industria a través de una rigurosa investigación y colaboración.
-  Necesitamos talentos y las mentes más brillantes para hacer una marca en el mundo. Una pequeña
+  Necesitamos talentos y las mentes más brillantes para dejar huella en el mundo. Una pequeña
   pero poderosa manera de ayudar a nuestra causa es donar ETH a la
-  Ethereum Foundation para ayudar a financiar la investigación blockchain.
+  Ethereum Foundation, para así financiar la investigación blockchain.
   
   
   Para más detalle vea <a target="_blank"
   href="https://medium.com/@iotex/iotex-1st-charity-program-update-d1959e67e756">IoTeX
   1st Charity Program Update</a>.
 hall-of-fame.badge-section.participation-detail: >-
-  Para los detalles de participación, por favor únase al oficial <a target="_blank"
-  href="https://t.me/IoTeXGroup">Telegram Group</a> y manténgase atento a los mensajes
+  Para los detalles de participación, por favor únase al <a target="_blank"
+  href="https://t.me/IoTeXGroup">grupo oficial de Telegram</a> y manténgase atento a los mensajes
   fijados.
 geetest.loading_captcha: Cargando captcha...
 hall-of-fame.badge-section.title: 1er Programa de Caridad de IoTeX - ETH Foundation
 hall-of-fame.search.label: Busque por su hashid o por su nombre de usuario por defecto.
 hall-of-fame.thank-you.message: >-
-   El crowdsourcing como medio para financiar una causa específica para una obra de caridad no es nuevo, pero
+   No es nuevo que el crowdsourcing se utilice para financiar una causa específica o una obra de caridad, pero
    IoTeX lo está haciendo vía “contratos inteligentes” y redirigiendo el bombo de las criptomonedas
    a causas benéficas. En los próximos meses, bajo su Programa de Recompensa Comunitaria,
-   IoTeX continuará seleccionando algunos programas de caridad que se alinean con
-   la misión de IoTeX de “Conectar el mundo físico, bloque por bloque” como parte del
-   Programa de Recompensas Comunitarias de IoTeX.
+   IoTeX continuará seleccionando  programas de caridad que se alineen con
+   la misión de IoTeX de “Conectar el mundo físico, bloque por bloque” como parte de
+   dicho programa.
 	  
 	  
    IoTeX cree en crecer junto con la comunidad y en conectar
    el mundo físico bloque por bloque. Es un objetivo muy ambicioso, pero puede ser
    logrado con un equipo fuerte y una comunidad que lo apoye. Junto con la
-   comunidad para impulsar la frontera para el desarrollo del ecosistema
-   blockchain, IoTeX realmente espera que la comunidad pueda entender la intención
-   original y ayude a promover la causa.
+   comunidad es posible romper límites en el desarrollo de un ecosistema
+   blockchain; por eso es que en IoTeX esperamos que ésta pueda entender nuestra causa
+   original y ayude a promoverla.
 hall-of-fame.title: IoTeX Caridad
 home.about.inno.0.desc.keep: >-
    Admite millones de nodos con finalización instantánea y baja latencia,
