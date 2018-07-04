@@ -343,7 +343,11 @@ stonevan.twitter: >-
 subscribe.btn: SUBSCRIBIRSE
 subscribe.desc: Con nuestros últimos progresos y eventos.
 subscribe.title: MANTÉNGASE ACTUALIZADO
-testnet-preview.released-event-title: ¡Nuestra vista previa de la Testnet se ha hecho pública!
+testnet-alpha.home-title.keep: La Alfa de la Testnet (Strive) Será Open Source el
+testnet-alpha.released-title.keep: La Alfa de la Testnet Alpha Ha Sido Hecha Pública el
+testnet-preview.home-title.keep: La Vista Previa de la Testnet (StoneVan) Será Hecha Pública el
+testnet-preview.released-event-title.keep: ¡Nuestra Vista Previa de la Testnet Se Ha Hecho Pública!
+testnet-preview.released-title.keep: La Vista Previa de la Testnet Ha Sido Hecha Pública el
 testnet.code: CÓDIGO
 testnet.demo: DEMO
 testnet.detail: DETALLE
