@@ -367,3 +367,25 @@ topbar.video: VÍDEO
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: SIGUIENTE
 whitepaper.button.previous: ANTERIOR
+activity.rolldpos.earned: ¡Ha ganado <strong>%d</strong> puntos!
+activity.rolldpos.chance: Tiene <strong>%d</strong> oportunidades(s) de lanzar el lado.
+activity.rolldpos.success.title: ¡Enhorabuena!
+activity.rolldpos.refer.title: Refiera un amigo para obtener otra oportunidad.
+activity.rolldpos.refer.statement: >-
+  Recibirá una notificación de nuestro Bounty Bot en Telegram (@IoTeXBountyBot) 
+  cuando sus amigos terminen los pasos 1-5. Cada participante tiene 3 oportunidades de lanzar 
+  el dado por día durante el período de la campaña. 
+activity.rolldpos.fail.title: Respuesta Incorrecta - Buena Suerte La Próxima
+activity.rolldpos.cover-title.keep: rolldpos.cover-title.keep
+activity.rolldpos.title: Cuánto Sabe Acerca de
+activity.rolldpos.subtitle: Roll-DPoS
+activity.rolldpos.video: >-
+  Visualice el siguiente vídeo sobre la alfa de la Testnet de IoTeX y responda una pregunta para
+  lanzar el dado!
+activity.rolldpos.yellow: Yellow Paper
+activity.rolldpos.blog: Blog Post
+activity.rolldpos.ready: ¡Estoy Listo!
+activity.rolldpos.submit.enabled: ¡Enviar!
+activity.rolldpos.submit.disabled: Por favor, ¡seleccione una respuesta!
+activity.rolldpos.rolldpos: Roll-DPoS
+auth.invalid_phone_number: auth.invalid_phone_number
