@@ -216,7 +216,6 @@ home.section.advisors: IoTeX.Asesores
 home.section.arch: IoTeX.Arquitectura
 home.section.innovations: IoTeX.Innovaciones
 home.section.investors: IoTeX.Inversores
-home.section.partners: IoTeX.SociosEstratégicos
 home.section.roadmap: IoTeX.Cronograma
 home.section.team: IoTeX.Equipo
 home.section.teamfrom: IoTeX.FondoDelEquipo
@@ -344,6 +343,7 @@ subscribe.btn: SUBSCRIBIRSE
 subscribe.desc: Con nuestros últimos progresos y eventos.
 subscribe.title: MANTÉNGASE ACTUALIZADO
 testnet-alpha.home-title.keep: La Alfa de la Testnet (Strive) Será Open Source el
+testnet-alpha.released-event-title.keep: ¡La Alfa de la Testnet Alpha Se Ha Hecho Pública!
 testnet-alpha.released-title.keep: La Alfa de la Testnet Alpha Ha Sido Hecha Pública el
 testnet-preview.home-title.keep: La Vista Previa de la Testnet (StoneVan) Será Hecha Pública el
 testnet-preview.released-event-title.keep: ¡Nuestra Vista Previa de la Testnet Se Ha Hecho Pública!
@@ -373,9 +373,10 @@ activity.rolldpos.success.title: ¡Enhorabuena!
 activity.rolldpos.refer.title: Refiera un amigo para obtener otra oportunidad.
 activity.rolldpos.refer.statement: >-
   Recibirá una notificación de nuestro Bounty Bot en Telegram (@IoTeXBountyBot) 
-  cuando sus amigos terminen los pasos 1-5. Cada participante tiene 3 oportunidades de lanzar 
-  el dado por día durante el período de la campaña. 
+  cuando sus amigos terminen los pasos 1-5 y lancen el dado. Cada participante tiene hasta 
+  10 oportunidades de tirar los dados durante el período de la campaña. 
 activity.rolldpos.fail.title: Respuesta Incorrecta - Buena Suerte La Próxima
+activity.rolldpos.general.title: EventoRoll-DPos
 activity.rolldpos.cover-title.keep: rolldpos.cover-title.keep
 activity.rolldpos.title: Cuánto Sabe Acerca de
 activity.rolldpos.subtitle: Roll-DPoS
@@ -389,3 +390,4 @@ activity.rolldpos.submit.enabled: ¡Enviar!
 activity.rolldpos.submit.disabled: Por favor, ¡seleccione una respuesta!
 activity.rolldpos.rolldpos: Roll-DPoS
 auth.invalid_phone_number: auth.invalid_phone_number
+common.dice.start: EMPEZAR
