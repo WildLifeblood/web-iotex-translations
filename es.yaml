@@ -1,16 +1,58 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
-auth.enter_phone_number: Introduce tu número de teléfono
++activity.rolldpos.blog: Post del Blog                                                     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
++activity.rolldpos.chance: Tiene <strong>%d</strong> oportunidad(es) de lanzar el dado.
++activity.rolldpos.earned: ¡Ha ganado <strong>%d</strong> puntos!
++activity.rolldpos.fail.title: Respuesta Incorrecta - Buena Suerte la Próxima Vez
++activity.rolldpos.general.title: Evento Roll-DPos
++activity.rolldpos.information: >-
++  Por favor, siga estrictamente las <a href="https://goo.gl/hZpc6T"
++  target="_blank">Instrucciones</a> para poder ser aceptado como participante. Si no, no
++  podrá recibir ningún punto. Cualquier signo de trampa
++  resultará en la eliminación de todos los puntos ganados. ¡Disfrutad lanzando!
++activity.rolldpos.information-note: >-
++  *Nota: ¡Cada participante tiene hasta 10 oportunidades de lanzar el dado en esta
++  campaña!
++activity.rolldpos.ready: ¡Estoy Listo!
++activity.rolldpos.refer.statement: >-
++  Conseguirá otra oportunidad cuando sus amigos terminen las etapas del 1 al 5 y lances los
++  dados. Cada participante tiene hasta 10 oportunidades de lanzar el dado en esta
++  campaña.
++activity.rolldpos.refer.title: Invita a un amigo para obtener otra oportunidad.
++activity.rolldpos.rolldpos: Roll-DPoS
++activity.rolldpos.start_the_ball_rolling.keep: EMPEZAR
++activity.rolldpos.submit.disabled: ¡Por favor, seleccione una respuesta!
++activity.rolldpos.submit.enabled: ¡Enviar! 
++activity.rolldpos.submit.verify: ¡Verificando!
++activity.rolldpos.subtitle: Roll-DPoS
++activity.rolldpos.success.title: ¡FELICIDADES!
++activity.rolldpos.title: Cuánto Sabes Acerca de la
++activity.rolldpos.title.keep: Campaña de Dados Roll-DPoS
++activity.rolldpos.video: >-
++  El botón de inicio aparecerá justo después de ver el vídeo sobre la Alfa de la Testnet  
++  de IoTeX por un rato.  ¡Después responda a la pregunta para lanzar el dado!
++activity.rolldpos.yellow: Yellow Paper
++auth.email.content: >-
++  Has accedido recientemente a tu cuenta de IoTeX y necesita verificarlo para
++  continuar. Su código es ${code}.
++auth.email.subject: 'El código de seguridad de IoTeX es ${code}'
+auth.enter_phone_number: Introduzca su número de teléfono
 auth.enter_verification_code: >-
-  Por favor, introduce el código de verificación de 6 dígitos enviado a tu teléfono
-  <strong>%s</strong>
+  Por favor, introduzca el código de verificación de 6 dígitos enviado a su teléfono
++  <strong>${phoneNumber}</strong>
++auth.enter_verification_code.email: >-
++  Por favor, introduzca el código de verificación de 6 dígitos que ha sido enviado a su teléfono
++  <strong>${email}</strong>
+auth.invalid_v_code: El código de verificación es incorrecto
 auth.login: Acceder
+auth.login_with_email: Acceder con Email
 auth.login_with_mobile: Acceder con el número de teléfono
 auth.login_with_telegram: Acceder con Telegram
 auth.next: Siguiente
 auth.phone_number: Número de Teléfono
 auth.tab.mobile: Teléfono(CN)
+auth.tab.email: Email
 auth.tab.telegram: Telegram
 auth.verification_code: Código de Verificación
 captcha.incorrect_captcha: Error en el captcha
@@ -32,6 +74,7 @@ charity.tweet.summary.image: >-
   https://s3.amazonaws.com/web-iotex-static/home/1st-charity-twitter-summary-image-v2.png
 charity.tweet.summary.title: ¡Usted está en el Tablón de Honor de IoTeX!
 claim.btn: RECLAME SUS PUNTOS
+common.dice.start: EMPEZAR
 contact.btn: CONTÁCTENOS
 contact.desc: Los expertos de IoTeX están disponibles para responder sus preguntas a través de support@iotex.io
 contact.title: MANTÉNGASE EN CONTACTO
@@ -163,6 +206,13 @@ home.jack.desc.keep: >-
 home.jack.linkedin.keep: null
 home.jack.name.keep: Jack Lee
 home.jack.title.keep: null
+home.jennifer.desc.keep: >-
+   Major en Economics y Minor en Digital Humanities en UCLA. Directora de Publicidad 
+   para Design for America con experiencia en marketing y dirección del proyecto
+   en más de 5 organizaciones. Diseño centrado en el usuario y entusiasta blockchain.
+home.jennifer.linkedin.keep: null
+home.jennifer.name.keep: Jennifer Vuong
+home.jennifer.title.keep: Becaria de Marketing Digital
 home.jing.desc.keep: >-
    Socio Fundador de Sparkland Capital, centrándose en Frontier Tech, dirige más de 40
    inversiones e innovaciones en blockchain, y es director de seguridad, IoT y del Consejo en
@@ -336,6 +386,7 @@ profile.send.total: Total
 profile.wallet.exchange: Exchanges
 profile.wallet.rank: Rango
 profile.wallet.title: Sus Tokens IoTeX
+rate_limit: Demasiadas peticiones
 stonevan.twitter: >-
    Acabo de conseguir 100 puntos gratis de IoTeX por celebrar su primer lanzamiento de su
    Testnet. @iotex_io ¡Ven y consigue los tuyos!
@@ -357,37 +408,15 @@ topbar.announcements: ANUNCIOS
 topbar.blog: BLOG
 topbar.careers: CARRERAS
 topbar.charity: CARIDAD
+topbar.dksap-iot: DKSAP-IOT
 topbar.explorer: EXPLORADOR
 topbar.faq: FAQ
 topbar.logout: CERRAR SESIÓN
 topbar.press: COMUNICADO DE PRENSA
 topbar.research: INVESTIGACIÓN
 topbar.resource: RECURSOS
+topbar.roll_dpos: Roll-DPOS
 topbar.video: VÍDEO
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: SIGUIENTE
 whitepaper.button.previous: ANTERIOR
-activity.rolldpos.earned: ¡Ha ganado <strong>%d</strong> puntos!
-activity.rolldpos.chance: Tiene <strong>%d</strong> oportunidades(s) de lanzar el lado.
-activity.rolldpos.success.title: ¡Enhorabuena!
-activity.rolldpos.refer.title: Refiera un amigo para obtener otra oportunidad.
-activity.rolldpos.refer.statement: >-
-  Recibirá una notificación de nuestro Bounty Bot en Telegram (@IoTeXBountyBot) 
-  cuando sus amigos terminen los pasos 1-5 y lancen el dado. Cada participante tiene hasta 
-  10 oportunidades de tirar los dados durante el período de la campaña. 
-activity.rolldpos.fail.title: Respuesta Incorrecta - Buena Suerte La Próxima
-activity.rolldpos.general.title: EventoRoll-DPos
-activity.rolldpos.cover-title.keep: rolldpos.cover-title.keep
-activity.rolldpos.title: Cuánto Sabe Acerca de
-activity.rolldpos.subtitle: Roll-DPoS
-activity.rolldpos.video: >-
-  Visualice el siguiente vídeo sobre la alfa de la Testnet de IoTeX y responda una pregunta para
-  lanzar el dado!
-activity.rolldpos.yellow: Yellow Paper
-activity.rolldpos.blog: Blog Post
-activity.rolldpos.ready: ¡Estoy Listo!
-activity.rolldpos.submit.enabled: ¡Enviar!
-activity.rolldpos.submit.disabled: Por favor, ¡seleccione una respuesta!
-activity.rolldpos.rolldpos: Roll-DPoS
-auth.invalid_phone_number: auth.invalid_phone_number
-common.dice.start: EMPEZAR
