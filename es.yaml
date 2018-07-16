@@ -1,49 +1,49 @@
 about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
-+activity.rolldpos.blog: Post del Blog                                                     AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-+activity.rolldpos.chance: Tiene <strong>%d</strong> oportunidad(es) de lanzar el dado.
-+activity.rolldpos.earned: ¡Ha ganado <strong>%d</strong> puntos!
-+activity.rolldpos.fail.title: Respuesta Incorrecta - Buena Suerte la Próxima Vez
-+activity.rolldpos.general.title: Evento Roll-DPos
-+activity.rolldpos.information: >-
-+  Por favor, siga estrictamente las <a href="https://goo.gl/hZpc6T"
-+  target="_blank">Instrucciones</a> para poder ser aceptado como participante. Si no, no
-+  podrá recibir ningún punto. Cualquier signo de trampa
-+  resultará en la eliminación de todos los puntos ganados. ¡Disfrutad lanzando!
-+activity.rolldpos.information-note: >-
-+  *Nota: ¡Cada participante tiene hasta 10 oportunidades de lanzar el dado en esta
-+  campaña!
-+activity.rolldpos.ready: ¡Estoy Listo!
-+activity.rolldpos.refer.statement: >-
-+  Conseguirá otra oportunidad cuando sus amigos terminen las etapas del 1 al 5 y lances los
-+  dados. Cada participante tiene hasta 10 oportunidades de lanzar el dado en esta
-+  campaña.
-+activity.rolldpos.refer.title: Invita a un amigo para obtener otra oportunidad.
-+activity.rolldpos.rolldpos: Roll-DPoS
-+activity.rolldpos.start_the_ball_rolling.keep: EMPEZAR
-+activity.rolldpos.submit.disabled: ¡Por favor, seleccione una respuesta!
-+activity.rolldpos.submit.enabled: ¡Enviar! 
-+activity.rolldpos.submit.verify: ¡Verificando!
-+activity.rolldpos.subtitle: Roll-DPoS
-+activity.rolldpos.success.title: ¡FELICIDADES!
-+activity.rolldpos.title: Cuánto Sabes Acerca de la
-+activity.rolldpos.title.keep: Campaña de Dados Roll-DPoS
-+activity.rolldpos.video: >-
-+  El botón de inicio aparecerá justo después de ver el vídeo sobre la Alfa de la Testnet  
-+  de IoTeX por un rato.  ¡Después responda a la pregunta para lanzar el dado!
-+activity.rolldpos.yellow: Yellow Paper
-+auth.email.content: >-
-+  Has accedido recientemente a tu cuenta de IoTeX y necesita verificarlo para
-+  continuar. Su código es ${code}.
-+auth.email.subject: 'El código de seguridad de IoTeX es ${code}'
+activity.rolldpos.blog: Post del Blog
+activity.rolldpos.chance: Tiene <strong>%d</strong> oportunidad(es) de lanzar el dado.
+activity.rolldpos.earned: ¡Ha ganado <strong>%d</strong> puntos!
+activity.rolldpos.fail.title: Respuesta Incorrecta - Buena Suerte la Próxima Vez
+activity.rolldpos.general.title: Evento Roll-DPos
+activity.rolldpos.information: >-
+  Por favor, siga estrictamente las <a href="https://goo.gl/hZpc6T"
+  target="_blank">Instrucciones</a> para poder ser aceptado como participante. Si no, no
+  podrá recibir ningún punto. Cualquier signo de trampa
+  resultará en la eliminación de todos los puntos ganados. ¡Disfrutad lanzando!
+activity.rolldpos.information-note: >-
+  *Nota: ¡Cada participante tiene hasta 10 oportunidades de lanzar el dado en esta
+  campaña!
+activity.rolldpos.ready: ¡Estoy Listo!
+activity.rolldpos.refer.statement: >-
+  Conseguirá otra oportunidad cuando sus amigos terminen las etapas del 1 al 5 y lances los
+  dados. Cada participante tiene hasta 10 oportunidades de lanzar el dado en esta
+  campaña.
+activity.rolldpos.refer.title: Invita a un amigo para obtener otra oportunidad.
+activity.rolldpos.rolldpos: Roll-DPoS
+activity.rolldpos.start_the_ball_rolling.keep: EMPEZAR
+activity.rolldpos.submit.disabled: ¡Por favor, seleccione una respuesta!
+activity.rolldpos.submit.enabled: ¡Enviar! 
+activity.rolldpos.submit.verify: ¡Verificando!
+activity.rolldpos.subtitle: Roll-DPoS
+activity.rolldpos.success.title: ¡FELICIDADES!
+activity.rolldpos.title: Cuánto Sabes Acerca de la
+activity.rolldpos.title.keep: Campaña de Dados Roll-DPoS
+activity.rolldpos.video: >-
+  El botón de inicio aparecerá justo después de ver el vídeo sobre la Alfa de la Testnet  
+  de IoTeX por un rato.  ¡Después responda a la pregunta para lanzar el dado!
+activity.rolldpos.yellow: Yellow Paper
+auth.email.content: >-
+  Has accedido recientemente a tu cuenta de IoTeX y necesita verificarlo para
+  continuar. Su código es ${code}.
+auth.email.subject: 'El código de seguridad de IoTeX es ${code}'
 auth.enter_phone_number: Introduzca su número de teléfono
 auth.enter_verification_code: >-
   Por favor, introduzca el código de verificación de 6 dígitos enviado a su teléfono
-+  <strong>${phoneNumber}</strong>
-+auth.enter_verification_code.email: >-
-+  Por favor, introduzca el código de verificación de 6 dígitos que ha sido enviado a su teléfono
-+  <strong>${email}</strong>
+  <strong>${phoneNumber}</strong>
+auth.enter_verification_code.email: >-
+  Por favor, introduzca el código de verificación de 6 dígitos que ha sido enviado a su teléfono
+  <strong>${email}</strong>
 auth.invalid_v_code: El código de verificación es incorrecto
 auth.login: Acceder
 auth.login_with_email: Acceder con Email
