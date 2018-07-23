@@ -2,8 +2,8 @@ about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
 activity.rolldpos.blog: Post del Blog
-activity.rolldpos.chance: Tiene <strong>%d</strong> oportunidad(es) de lanzar el dado.
-activity.rolldpos.earned: ¡Ha ganado <strong>%d</strong> puntos!
+activity.rolldpos.chance: Tiene <strong>${chance}</strong> oportunidad(es) de lanzar el dado.
+activity.rolldpos.earned: ¡Ha ganado <strong>${chance}</strong> puntos!
 activity.rolldpos.fail.title: Respuesta Incorrecta - Buena Suerte la Próxima Vez
 activity.rolldpos.general.title: Evento Roll-DPos
 activity.rolldpos.information: >-
@@ -359,7 +359,7 @@ profile.receive.amount: Cantidad
 profile.receive.button: RECIBIR
 profile.receive.menu: RECIBIR
 profile.receive.prompt: INTRODUZCA EL CÓDIGO
-profile.receive.success: ¡Felicidades! Acaba de recibir %d puntos.
+profile.receive.success: ¡Felicidades! Acaba de recibir ${amount} puntos.
 profile.receive.time: Hora
 profile.redeem.amount: Cantidad
 profile.redeem.button: ENVIAR APLICACIÓN
@@ -371,7 +371,7 @@ profile.redeem.success: >-
    la red Ethereum, procesaremos las solicitudes gradualmente y finalizaremos todos los
    intercambios de puntos a token dentro de dos semanas.
 profile.redeem.time: Hora
-profile.refund.success: '%d puntos han sido devueltos a su cuenta.'
+profile.refund.success: '${amount} puntos han sido devueltos a su cuenta.'
 profile.send.amount: Cantidad
 profile.send.button: GENERAR CÓDIGO
 profile.send.code: Código
@@ -420,3 +420,7 @@ topbar.video: VÍDEO
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: SIGUIENTE
 whitepaper.button.previous: ANTERIOR
+activity.forum.subtitle: Vista Previa
+activity.forum.title: Visita nuestro nuevo Foro de IoTeX
+activity.forum.enter: Ir
+activity.forum.enter: ¡Usa tu código de referido de abajo para invitar hasta 10 amigos!
