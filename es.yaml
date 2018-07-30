@@ -2,7 +2,7 @@ about.this.file: >-
   Strings in different locales are auto-generated and maintained by
   locale_strings.js.
 activity.rolldpos.blog: Post del Blog
-activity.rolldpos.chance: Tiene <strong>${chance}</strong> oportunidad(es) de lanzar el dado.
+activity.rolldpos.chance: 'Tiene <strong>${chance}</strong> oportunidad(es) de lanzar el dado.'
 activity.rolldpos.earned: ¡Ha ganado <strong>${chance}</strong> puntos!
 activity.rolldpos.fail.title: Respuesta Incorrecta - Buena Suerte la Próxima Vez
 activity.rolldpos.general.title: Evento Roll-DPos
@@ -359,7 +359,7 @@ profile.receive.amount: Cantidad
 profile.receive.button: RECIBIR
 profile.receive.menu: RECIBIR
 profile.receive.prompt: INTRODUZCA EL CÓDIGO
-profile.receive.success: ¡Felicidades! Acaba de recibir ${amount} puntos.
+profile.receive.success: '¡Felicidades! Acaba de recibir ${amount} puntos.'
 profile.receive.time: Hora
 profile.redeem.amount: Cantidad
 profile.redeem.button: ENVIAR APLICACIÓN
@@ -420,7 +420,25 @@ topbar.video: VÍDEO
 topbar.white-paper: WHITE PAPER
 whitepaper.button.next: SIGUIENTE
 whitepaper.button.previous: ANTERIOR
-activity.forum.subtitle: Vista Previa
-activity.forum.title: Visita nuestro nuevo Foro de IoTeX
-activity.forum.enter: Ir
-activity.forum.enter: ¡Usa tu código de referido de abajo para invitar hasta 10 amigos!
+activity.forum.subtitle.keep: Vista Previa
+activity.forum.title.keep: Visita nuestro nuevo Foro de IoTeX
+activity.forum.enter.keep: Ir
+activity.forum.refer.keep: ¡Use su código de referido de abajo para invitar hasta 10 amigos!
+activity.telegram-korean.claim-candy.title: ¡Gane 200 Candy (IOTX) Como Regalo de Agradecimiento!
+activity.telegram-korean.claim-candy.button: Conseguir Mi Candy
+activity.telegram-korean.claim-candy.error.stage: "Error: Por favor, asegúrese que ha verificado su número de teléfono y se ha unido a nuestro grupo de Telegram coreano."
+activity.telegram-korean.claim-candy.error.add: "Error: error al añadir puntos"
+activity.telegram-korean.error.update: "Error: error al actualizar el estado"
+activity.telegram-korean.join-group.title: Únase a Nuestro Grupo Coreano para Reclamar Candy!
+activity.telegram-korean.join-group.join: Unirse
+activity.telegram-korean.join-group.confirm: ¡Estoy en el grupo!
+activity.telegram-korean.recaptcha.verify: Introducir
+activity.telegram-korean.description: Una Infraestructura Blockchain Autoescalable y Centrada en la Privacidad para el IoT
+activity.telegram-korean.title: Evento Airdrop del Grupo de Telegram Coreano 
+activity.telegram-korean.referral: "Link de referido"
+activity.telegram-korean.claimed: Ha reclamado su candy. ¡Gracias por participar!
+activity.telegram-korean.verify-telegram.error: Error: Por favor, asegúrese que ha iniciado sesión usando Telegram y se ha unido a nuestro grupo de Telegram coreano.
+activity.telegram-korean.twilio.title: Verifique su número de teléfono
+activity.telegram-korean.twilio.button: Verificar
+activity.telegram-korean.error.send-code-verification: "Error: hay un error al enviar el código de verificación. Por favor, pruebe más tarde."
+activity.telegram-korean.error.not-in-verification-stage: "Error: por favor, asegúrese de que ha iniciado sesión con su cuenta de Telegram y ha pasado el test del reCaptcha." 
