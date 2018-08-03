@@ -418,27 +418,78 @@ topbar.resource: RECURSOS
 topbar.roll_dpos: Roll-DPOS
 topbar.video: VÍDEO
 topbar.white-paper: WHITE PAPER
+topbar.partnership: ALIANZA
 whitepaper.button.next: SIGUIENTE
 whitepaper.button.previous: ANTERIOR
 activity.forum.subtitle.keep: Vista Previa
 activity.forum.title.keep: Visita nuestro nuevo Foro de IoTeX
 activity.forum.enter.keep: Ir
 activity.forum.refer.keep: ¡Use su código de referido de abajo para invitar hasta 10 amigos!
-activity.telegram-korean.claim-candy.title: ¡Gane 200 Candy (IOTX) Como Regalo de Agradecimiento!
-activity.telegram-korean.claim-candy.button: Conseguir Mi Candy
-activity.telegram-korean.claim-candy.error.stage: "Error: Por favor, asegúrese que ha verificado su número de teléfono y se ha unido a nuestro grupo de Telegram coreano."
-activity.telegram-korean.claim-candy.error.add: "Error: error al añadir puntos"
-activity.telegram-korean.error.update: "Error: error al actualizar el estado"
-activity.telegram-korean.join-group.title: Únase a Nuestro Grupo Coreano para Reclamar Candy!
-activity.telegram-korean.join-group.join: Unirse
-activity.telegram-korean.join-group.confirm: ¡Estoy en el grupo!
-activity.telegram-korean.recaptcha.verify: Introducir
-activity.telegram-korean.description: Una Infraestructura Blockchain Autoescalable y Centrada en la Privacidad para el IoT
-activity.telegram-korean.title: Evento Airdrop del Grupo de Telegram Coreano 
-activity.telegram-korean.referral: "Link de referido"
-activity.telegram-korean.claimed: Ha reclamado su candy. ¡Gracias por participar!
-activity.telegram-korean.verify-telegram.error: Error: Por favor, asegúrese que ha iniciado sesión usando Telegram y se ha unido a nuestro grupo de Telegram coreano.
-activity.telegram-korean.twilio.title: Verifique su número de teléfono
-activity.telegram-korean.twilio.button: Verificar
-activity.telegram-korean.error.send-code-verification: "Error: hay un error al enviar el código de verificación. Por favor, pruebe más tarde."
-activity.telegram-korean.error.not-in-verification-stage: "Error: por favor, asegúrese de que ha iniciado sesión con su cuenta de Telegram y ha pasado el test del reCaptcha." 
+partners.title: Programa de Alianzas de IoTeX
+partners.subtitle-description: >-
+  IoTeX y sus aliados del ecosistema global están construyendo el futuro del IoT en la blockchain.
+partners.learn-more: Aprenda Más
+partners.our-partners: Nuestros Aliados
+partners.partner-with: Asociarse Con IoTeX
+partners.why-partner: Aliados de Desarrollo
+partners.why.desc: >-
+  Si bien cualquier desarrollador puede aprovechar la infraestructura open source de IoTeX para
+  construir DApps, nuestros aliados de desarrollo oficiales disfrutarán de asesoramiento
+  práctico via aceso directo al producto de IoTeX’s y a los equipos técnicos. 
+  Los aliados de desarrollo tendrán prioridad para probar la beta de las nuevas funciones de IoTeX 
+  y recibirán acceso a la red de contactos de blockchain e IoT de IoTeX. 
+  Otros recursos, como financiación para pruebas de concepto, orientación en gobernanza 
+  y cripto-economía, y asesoramiento técnico, se proporcionarán de manera
+  discrecional. 
+partners.how: Aliados del Ecosistema
+partners.how.desc: >-
+  Nuestros aliados del ecosistema se beneficiarán de poder de trabajar directamente con el equipo de IoTeX, 
+  de nuestros aliados de desarrollo, y de otros aliados del ecosistema para alinear su abastecimiento sourcing, 
+  fostering, y funciones relacionadas con la distribución con la tecnología blockchain. 
+  Aprovecharemos el alcance y la influencia existente de nuestros aliados del ecosistema 
+  para traer nuevas oportunidades a IoTeX y nuestros aliados de desarrollo.
+partners.join-iotex: Solicite Ser Un Aliado de IoTeX
+partners.apply-button: Solicitar
+partners.apply-desc: >-
+  ¿Está interesado en convertirse un aliado de desarrollo oficial o un aliado del ecosistema 
+  de IoTeX? Esperamos escuchar sobre usted - ¡solicítelo con el link de abajo!
+partners.partner-with.more-info: >-
+  Para ver todos los detalles sobre los beneficios y expectativas de convertirse en un aliado development 
+  de desarrollo o aliado del ecosistema, por favor, vea nuestra publicación sobre el
+  <a style="color:white" href="https://medium.com/@iotex/iotex-official-partnership-program-launch-eb9bca7050eb" target="_blank"/>
+  Programa de Alianzas de IoTeX</a> en el blog.
+partners.lineable.catchphrase: >-
+  Mantener a las Familias Seguras Con Blockchain
+partners.lineable.content: >-
+  Lineable es una compañía de hardware que construye dispositivos wearables inteligentes para <strong>mantener a las familias seguras y 
+  conectadas</strong>. Está asociada con gigantes de telecomunicaciones de todo el mundo para conectar sus productos, 
+  que ofrecen alertas SOS, seguimiento de posición y geoperimetraje, y vigilancia sanitaria. 
+  <br/><br/>
+  Lineable usará la blockchain de IoTeX para asegurar la completa privacidad de los datos de usuario (ej., geolocalización, salud) 
+  y para compartir de manera segura datos de usuarios verificados con terceros, como centros de 
+  investigación para pre-diagnosticar condiciones médicas. IoTeX y Lineable esperan conectar 1,000,000+ dispositivos de  
+  Lineable con la blockchain de IoTeX blockchain en 2019.
+partners.lineable.location: Seúl, Corea
+partners.lineable.industry: Dispositivos Wearable, conectividad LoRaWAN
+partners.lineable.media: >-
+  <a style="color:black;text-decoration:none" target="_blank" 
+  href="https://globenewswire.com/news-release/2018/02/08/1336111/0/en/Semtech-s-LoRa-Technology-Help-Saves-Alzheimer-Patients-in-Real-Time.html">
+  Gran lanzamiento de Lineable
+  </a>
+  <br/>
+  <a style="color:black;text-decoration:none" target="_blank" 
+  href="http://wearablesforgood.com/lineable/">
+  UNICEF "Wearables para Bien"
+  </a>
+partners.lineable.website: <a href="https://www.lineable.net" style="color:black;text-decoration:none" target="_blank"/>www.lineable.net</a>
+partners.lineable.feature-btn: Anuncio Oficial
+partners.lineable.quote: >-
+  "La misión de Lineable de crear una red segura crowdsourced para familias network ha
+  encontrado finalmente un complemento perfecto - la tecnología blockchain de IoTeX."
+  <br/><br/>
+  - Seokmin Moon, Lineable CEO
+partners.sidebar.location: Localización
+partners.sidebar.website: Web
+partners.sidebar.media: Prensa / RP
+partners.sidebar.industry: Industria
+partners.join-us: Únase
