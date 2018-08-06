@@ -185,14 +185,14 @@ home.fan.desc.keep: >-
    de capital riesgo en su lista anual Midas de China.
 home.fan.linkedin.keep: null
 home.fan.name.keep: Fan Zhang
-home.fan.title.keep: null
+home.fan.title.keep: 'null'
 home.guang.desc.keep: >-
    Fellow en IEEE. Profesor en University of Waterloo, Canadá. Científico de alto nivel en
    criptografía y criptografía ligera, en redes ad hoc y en seguridad en Identificación de Radiofrecuencias
    (RFID).
 home.guang.linkedin.keep: null
 home.guang.name.keep: Guang Gong
-home.guang.title.keep: null
+home.guang.title.keep: 'null'
 home.hao.desc.keep: >-
    Máster en Software Engineering en Carnegie Mellon University. Entusiasta web
    y blockchain.
@@ -205,7 +205,7 @@ home.jack.desc.keep: >-
    Ejecutivo de FnConn, y Director del Consejo de Abra.
 home.jack.linkedin.keep: null
 home.jack.name.keep: Jack Lee
-home.jack.title.keep: null
+home.jack.title.keep: 'null'
 home.jennifer.desc.keep: >-
    Major en Economics y Minor en Digital Humanities en UCLA. Directora de Publicidad 
    para Design for America con experiencia en marketing y dirección del proyecto
@@ -424,7 +424,7 @@ whitepaper.button.previous: ANTERIOR
 activity.forum.subtitle.keep: Vista Previa
 activity.forum.title.keep: Visita nuestro nuevo Foro de IoTeX
 activity.forum.enter.keep: Ir
-activity.forum.refer.keep: ¡Use su código de referido de abajo para invitar hasta 10 amigos!
+activity.forum.refer.keep: ¡Genere sus códigos de referidos debajo para invitar hasta 10 amigos (introduzca el hash id de sus amigos)!
 partners.title: Programa de Alianzas de IoTeX
 partners.subtitle-description: >-
   IoTeX y sus aliados del ecosistema global están construyendo el futuro del IoT en la blockchain.
@@ -493,3 +493,35 @@ partners.sidebar.website: Web
 partners.sidebar.media: Prensa / RP
 partners.sidebar.industry: Industria
 partners.join-us: Únase
+partners.lianan.catchphrase: >-
+  Asegurando la Seguridad de Blockchain y los Contratos Inteligentes
+partners.lianan.content: >-
+  LianAn Technology es una compañía de verificación formal centrada en sistemas en los que la seguridad es crítica, con experiencia en
+  the las industrias aeroespacial, militar, y ahora blockchain. LianAn ha lanzado recientemente su
+  plataforma de Verificación-como-Servicio (VaaS), que ofrece una verificación automatizada y robusta de la blockchain y los contratos inteligentes 
+  de EOS, Ethereum, y otras blockchains.
+  <br/><br/>
+  IoTeX aplicará los servicios de verificación de vanguardia de LianAn a su blockchain y contratos
+  inteligentes, y a la vez extenderá sus servicios a los aliados de desarrollo de IoTeX. También colaboraremos We will also collaborate 
+  investigando sobre la seguridad de la blockchain y los contratos inteligentes, así como continuaremos innovando en la preservación de la privacidad de los
+  contratos inteligentes.
+partners.lianan.location: Chengdu, China
+partners.lianan.industry: Seguridad, Verificación formal
+partners.lianan.media: >-
+  <a style="color:black;text-decoration:none" target="_blank" 
+  href="https://bitcoinexchangeguide.com/critical-eos-smart-contract-vulnerability-discovered-by-auditing-firm/">
+  Contratos Inteligentes de EOS
+  </a>
+  <br/>
+  <a style="color:black;text-decoration:none" target="_blank" 
+  href="https://www.lianantech.com/article/ff80808164b136c10164c5f1279c007d/">
+  Análisis de Vulnerabilidades
+  </a>
+partners.lianan.website: <a href="https://www.lianantech.com" style="color:black;text-decoration:none" target="_blank"/>www.lianantech.com</a>
+partners.lianan.feature-btn: Anuncio Oficial
+partners.lianan.quote: >-
+  "La seguridad en el mundo descentralizado es de máxima importancia. IoTeX y LianAn combinarán nuestros antecedentes técnicos 
+  de investigación y experiencia en la industria para conseguir innovaciones en la seguridad de la blockchain
+  y los contratos inteligentes."
+  <br/><br/>
+  - Xia Yang, Cofundador de LianAn Technology 
