@@ -42,7 +42,7 @@ auth.enter_verification_code: >-
   Por favor, introduzca el código de verificación de 6 dígitos enviado a su teléfono
   <strong>${phoneNumber}</strong>
 auth.enter_verification_code.email: >-
-  Por favor, introduzca el código de verificación de 6 dígitos que ha sido enviado a su teléfono
+  Por favor, introduzca el código de verificación de 6 dígitos que ha sido enviado a su email
   <strong>${email}</strong>
 auth.invalid_v_code: El código de verificación es incorrecto
 auth.login: Acceder
@@ -320,8 +320,8 @@ profile.eth.eth_new: 4. Introduzca su nueva dirección ETH
 profile.eth.expiration: Expira el
 profile.eth.invalid: Por favor, introduzca una dirección ETH válida.
 profile.eth.message: '1. Copie el mensaje:'
-profile.eth.sign_new: '2. Firme el mensaje con su clave privada:'
-profile.eth.sign_old: '2. Firme el mensaje con su ANTIGUA clave privada:'
+profile.eth.sign_new: '2. Firme el mensaje con su monedero:'
+profile.eth.sign_old: '2. Firme el mensaje con su ANTIGUO monedero:'
 profile.eth.signature: 3. Rellene la firma
 profile.eth.update: Actualice su dirección ETH
 profile.eth.updated: Su dirección ETH ha sido actualizada.
@@ -424,7 +424,7 @@ whitepaper.button.previous: ANTERIOR
 activity.forum.subtitle.keep: Vista Previa
 activity.forum.title.keep: Visita nuestro nuevo Foro de IoTeX
 activity.forum.enter.keep: Ir
-activity.forum.refer.keep: ¡Genere sus códigos de referidos debajo para invitar hasta 10 amigos (introduzca el hash id de sus amigos)!
+activity.forum.refer.keep: ¡Escriba id de IoTeX de sus amigos y genere sus códigos de referidos para invitar hasta 10 personas!
 partners.title: Programa de Alianzas de IoTeX
 partners.subtitle-description: >-
   IoTeX y sus aliados del ecosistema global están construyendo el futuro del IoT en la blockchain.
@@ -449,6 +449,7 @@ partners.how.desc: >-
   Aprovecharemos el alcance y la influencia existente de nuestros aliados del ecosistema 
   para traer nuevas oportunidades a IoTeX y nuestros aliados de desarrollo.
 partners.join-iotex: Solicite Ser Un Aliado de IoTeX
+partners.feature-btn: Anuncio Oficial
 partners.apply-button: Solicitar
 partners.apply-desc: >-
   ¿Está interesado en convertirse un aliado de desarrollo oficial o un aliado del ecosistema 
@@ -471,18 +472,19 @@ partners.lineable.content: >-
   Lineable con la blockchain de IoTeX blockchain en 2019.
 partners.lineable.location: Seúl, Corea
 partners.lineable.industry: Dispositivos Wearable, conectividad LoRaWAN
+partners.lineable.name: Lineable
 partners.lineable.media: >-
-  <a style="color:black;text-decoration:none" target="_blank" 
+  <a style="color:black;text-decoration:underline" target="_blank" 
   href="https://globenewswire.com/news-release/2018/02/08/1336111/0/en/Semtech-s-LoRa-Technology-Help-Saves-Alzheimer-Patients-in-Real-Time.html">
   Gran lanzamiento de Lineable
   </a>
   <br/>
-  <a style="color:black;text-decoration:none" target="_blank" 
+  <a style="color:black;text-decoration:underline" target="_blank" 
   href="http://wearablesforgood.com/lineable/">
   UNICEF "Wearables para Bien"
   </a>
 partners.lineable.website: <a href="https://www.lineable.net" style="color:black;text-decoration:none" target="_blank"/>www.lineable.net</a>
-partners.lineable.feature-btn: Anuncio Oficial
+partners.lineable.feature-link: https://medium.com/@iotex/iotex-lineable-partnership-expanding-the-reach-and-impact-of-wearables-with-blockchain-7ef1e253700d
 partners.lineable.quote: >-
   "La misión de Lineable de crear una red segura crowdsourced para familias network ha
   encontrado finalmente un complemento perfecto - la tecnología blockchain de IoTeX."
@@ -493,6 +495,9 @@ partners.sidebar.website: Web
 partners.sidebar.media: Prensa / RP
 partners.sidebar.industry: Industria
 partners.join-us: Únase
+activity.forum.generate: Generar
+activity.forum.reset: Restablecer
+activity.forum.error: Por favor, asegúrese de que el id de IoTeX es correcto.
 partners.lianan.catchphrase: >-
   Asegurando la Seguridad de Blockchain y los Contratos Inteligentes
 partners.lianan.content: >-
@@ -507,21 +512,24 @@ partners.lianan.content: >-
   contratos inteligentes.
 partners.lianan.location: Chengdu, China
 partners.lianan.industry: Seguridad, Verificación formal
+partners.lianan.name: LianAn
 partners.lianan.media: >-
-  <a style="color:black;text-decoration:none" target="_blank" 
+  <a style="color:black;text-decoration:underline" target="_blank" 
   href="https://bitcoinexchangeguide.com/critical-eos-smart-contract-vulnerability-discovered-by-auditing-firm/">
   Contratos Inteligentes de EOS
   </a>
   <br/>
-  <a style="color:black;text-decoration:none" target="_blank" 
+  <a style="color:black;text-decoration:underline" target="_blank" 
   href="https://www.lianantech.com/article/ff80808164b136c10164c5f1279c007d/">
   Análisis de Vulnerabilidades
   </a>
 partners.lianan.website: <a href="https://www.lianantech.com" style="color:black;text-decoration:none" target="_blank"/>www.lianantech.com</a>
-partners.lianan.feature-btn: Anuncio Oficial
+partners.lianan.feature-link: https://medium.com/iotex/iotex-lianan-technology-partnership-formally-verifying-the-security-of-iotex-872f64dda523
 partners.lianan.quote: >-
   "La seguridad en el mundo descentralizado es de máxima importancia. IoTeX y LianAn combinarán nuestros antecedentes técnicos 
   de investigación y experiencia en la industria para conseguir innovaciones en la seguridad de la blockchain
   y los contratos inteligentes."
   <br/><br/>
-  - Xia Yang, Cofundador de LianAn Technology 
+  - Xia Yang, Cofundador de LianAn Technology
+  error.not-found.oops: Oops
+  error.not-found.message: No podemos encontrar la página que ha busca.
